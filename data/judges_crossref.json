@@ -1,0 +1,5208 @@
+{
+  "judges": {
+    "Paula Xinis": {
+      "normalized_name": "Paula Xinis",
+      "nc_cases": [
+        {
+          "row_index": 1,
+          "case_name": "Abrego Garcia v. Noem",
+          "case_no": "8:25-cv-00951",
+          "jurisdiction": "District of Maryland",
+          "date": "1) 4/11/2025 ; 2) 4/22/2025 ; 3) 4/22/2025 ; 4) 5/13/2025",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Paula Xinis"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Barack Obama",
+      "lit_case_count": 5,
+      "lit_cases": [
+        {
+          "case_name": "Public Employees for Environmental Responsibility v. President Trump",
+          "docket_number": "8:25-cv-00260",
+          "executive_action": "Schedule F",
+          "status": "Case Stayed",
+          "battle_id": 16
+        },
+        {
+          "case_name": "Abrego Garcia v. Noem",
+          "docket_number": "8:25-cv-00951",
+          "executive_action": "Removal to Third Country",
+          "status": "TRO Granted",
+          "battle_id": 121
+        },
+        {
+          "case_name": "New Jersey v. Bondi",
+          "docket_number": "1:25-cv-01807",
+          "executive_action": "Nonenforcement of FRT Regulations",
+          "status": "Case Stayed",
+          "battle_id": 261
+        },
+        {
+          "case_name": "Abrego Garcia v. Noem",
+          "docket_number": "8:25-cv-02780",
+          "executive_action": "Detention of Abrego Garcia",
+          "status": "Habeas Granted and Abrego Garcia Released",
+          "battle_id": 298
+        },
+        {
+          "case_name": "Public Employees for Environmental Responsibility v. Office of Management and Budget",
+          "docket_number": "8:25-cv-04164",
+          "executive_action": "CIGE Dismantling",
+          "status": "Suit Filed",
+          "battle_id": 376
+        }
+      ]
+    },
+    "James E. Boasberg": {
+      "normalized_name": "James E. Boasberg",
+      "nc_cases": [
+        {
+          "row_index": 2,
+          "case_name": "J.G.G. v. Trump",
+          "case_no": "1:25-cv-00766",
+          "jurisdiction": "District Court for the District of Columbia",
+          "date": "4/16/2025",
+          "violation_types": "Removal/Deportation Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S District Judge James Boasberg"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Barack Obama",
+      "lit_case_count": 10,
+      "lit_cases": [
+        {
+          "case_name": "Project on Government Oversight v. Trump",
+          "docket_number": "1:25-cv-00527",
+          "executive_action": "DOGE",
+          "status": "Case Stayed",
+          "battle_id": 74
+        },
+        {
+          "case_name": "J.G.G. v. Trump",
+          "docket_number": "1:25-cv-00766",
+          "executive_action": "Alien Enemies Act Deportation",
+          "status": "PI Vacated and Mandate Returned",
+          "battle_id": 105
+        },
+        {
+          "case_name": "Erie County v. Corporation for National and Community Service",
+          "docket_number": "1:25-cv-00783",
+          "executive_action": "AmeriCorps Dismantling",
+          "status": "Dismissed by Plaintiffs",
+          "battle_id": 109
+        },
+        {
+          "case_name": "American Oversight v. Hegseth",
+          "docket_number": "1:25-cv-00883",
+          "executive_action": "Houthi Signal Group Chat",
+          "status": "PI Granted in Part",
+          "battle_id": 129
+        },
+        {
+          "case_name": "Center for Biological Diversity v. Office of Personnel Management",
+          "docket_number": "1:25-cv-01632",
+          "executive_action": "FOIA Request",
+          "status": "Suit Filed",
+          "battle_id": 236
+        },
+        {
+          "case_name": "Robert F. Kennedy Human Rights v. Department of State",
+          "docket_number": "1:25-cv-01774",
+          "executive_action": "U.S./El Salvador Agreement",
+          "status": "Suit Filed",
+          "battle_id": 257
+        },
+        {
+          "case_name": "Swalwell v. Pulte",
+          "docket_number": "1:25-cv-04125",
+          "executive_action": "FHA Investigations",
+          "status": "Dismissed by Plaintiff",
+          "battle_id": 365
+        },
+        {
+          "case_name": "The Lawfare Institute v. Department of State",
+          "docket_number": "1:26-cv-00798",
+          "executive_action": "FOIA Suit on Case-Zablocki Act",
+          "status": "Suit Filed",
+          "battle_id": 411
+        },
+        {
+          "case_name": "Coalition for Independent Technology Research v. Rubio",
+          "docket_number": "1:26-cv-00815",
+          "executive_action": "\"Censorship\" Policy",
+          "status": "Suit Filed",
+          "battle_id": 413
+        },
+        {
+          "case_name": "Leon Rengel v. United States",
+          "docket_number": "1:26-cv-01008",
+          "executive_action": "CECOT Detention",
+          "status": "Suit Filed",
+          "battle_id": 417
+        }
+      ]
+    },
+    "Brian E. Murphy": {
+      "normalized_name": "Brian E. Murphy",
+      "nc_cases": [
+        {
+          "row_index": 3,
+          "case_name": "D.V.D. v. U.S. Department of Homeland Security",
+          "case_no": "1:25-cv-10676",
+          "jurisdiction": "District of Massachusetts",
+          "date": "1) 5/18/2025 ; 2) 5/26/2025",
+          "violation_types": "Removal/Deportation Despite Order ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge. Brian E. Murphy"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 2,
+      "lit_cases": [
+        {
+          "case_name": "D.V.D. v. Department of Homeland Security",
+          "docket_number": "1:25-cv-10676",
+          "executive_action": "Removal to Third Country",
+          "status": "Summary Judgement Granted for Plaintiffs",
+          "battle_id": 118
+        },
+        {
+          "case_name": "Phan v. Department of Homeland Security",
+          "docket_number": "1:25-cv-11924",
+          "executive_action": "Removal to Third Country",
+          "status": "Dismissed by Plaintiffs",
+          "battle_id": 278
+        }
+      ]
+    },
+    "Sparkle L. Sooknanan": {
+      "normalized_name": "Sparkle L. Sooknanan",
+      "nc_cases": [
+        {
+          "row_index": 4,
+          "case_name": "L.G.M.L v. Noem",
+          "case_no": "1:25-cv-02942",
+          "jurisdiction": "District of Columbia",
+          "date": "1) 8/31/2025 ; 2) 9/1/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Sparkle L. Sooknanan"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 7,
+      "lit_cases": [
+        {
+          "case_name": "Grundmann v. Trump",
+          "docket_number": "1:25-cv-00425",
+          "executive_action": "Firing of FLRA Member",
+          "status": "Permanent Injunction Appealed",
+          "battle_id": 60
+        },
+        {
+          "case_name": "Democracy Forward Foundation v. OMB",
+          "docket_number": "1:25-cv-00858",
+          "executive_action": "FOIA Suit",
+          "status": "PI Denied",
+          "battle_id": 119
+        },
+        {
+          "case_name": "National Immigration Project of the National Lawyers Guild v. Department of Homeland Security",
+          "docket_number": "1:25-cv-01115",
+          "executive_action": "DHS FOIA Suit",
+          "status": "Suit Filed",
+          "battle_id": 176
+        },
+        {
+          "case_name": "Luna Gutierrez v. Noem",
+          "docket_number": "1:25-cv-01766",
+          "executive_action": "Guant\u00e1namo Bay Detention",
+          "status": "Suit Filed",
+          "battle_id": 252
+        },
+        {
+          "case_name": "League of Women Voters v. Department of Homeland Security",
+          "docket_number": "1:25-cv-03501",
+          "executive_action": "Personal Information Database",
+          "status": "Stay of Administration Actions Denied",
+          "battle_id": 317
+        },
+        {
+          "case_name": "Nemer v. Bondi",
+          "docket_number": "1:25-cv-04170",
+          "executive_action": "Termination of Federal Employee",
+          "status": "Suit Filed",
+          "battle_id": 367
+        },
+        {
+          "case_name": "Greene v. U.S. Agency for International Development",
+          "docket_number": "1:25-cv-04217",
+          "executive_action": "Termination of USAID Employees",
+          "status": "Suit Filed",
+          "battle_id": 368
+        }
+      ]
+    },
+    "Theodore D. Chuang": {
+      "normalized_name": "Theodore D. Chuang",
+      "nc_cases": [
+        {
+          "row_index": 5,
+          "case_name": "Santamaria Orellana v. Baker",
+          "case_no": "1:25-cv-01788",
+          "jurisdiction": "District of Maryland",
+          "date": "9/2/2025",
+          "violation_types": "Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Theodore D. Chuang"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Barack Obama",
+      "lit_case_count": 5,
+      "lit_cases": [
+        {
+          "case_name": "Philadelphia Yearly Meeting of the Religious Society of Friends v. U.S. Department of Homeland Security",
+          "docket_number": "8:25-cv-00243",
+          "executive_action": "ICE Enforcement in Houses of Worship",
+          "status": "Motion to Dismiss Partially Denied",
+          "battle_id": 14
+        },
+        {
+          "case_name": "Does 1-26 v. Musk",
+          "docket_number": "8:25-cv-00462",
+          "executive_action": "USAID Dismantling",
+          "status": "Class Certified in Part",
+          "battle_id": 59
+        },
+        {
+          "case_name": "CASA, Inc. v. Noem",
+          "docket_number": "8:25-cv-01484",
+          "executive_action": "TPS Cancellation",
+          "status": "Summary Judgment Denial Appealed",
+          "battle_id": 70
+        },
+        {
+          "case_name": "United States v. Bolton",
+          "docket_number": "8:25-cr-00314",
+          "executive_action": "Indictment of John Bolton",
+          "status": "Indictment Filed",
+          "battle_id": 334
+        },
+        {
+          "case_name": "Maryland v. Patel",
+          "docket_number": "8:25-cv-03644",
+          "executive_action": "FBI Building Development",
+          "status": "Suit Filed",
+          "battle_id": 351
+        }
+      ]
+    },
+    "George A. O'Toole, Jr.": {
+      "normalized_name": "George A. O'Toole, Jr.",
+      "nc_cases": [
+        {
+          "row_index": 6,
+          "case_name": "Abarca Tixe v. Hyde",
+          "case_no": "1:25-cv-12365",
+          "jurisdiction": "District of Massachusetts",
+          "date": "10/22/2025",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge George A. O'Toole, Jr."
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Richard F. Boulware, II": {
+      "normalized_name": "Richard F. Boulware, II",
+      "nc_cases": [
+        {
+          "row_index": 7,
+          "case_name": "Arce-Cervera v. Noem",
+          "case_no": "2:25-cv-01895",
+          "jurisdiction": "District of Nevada",
+          "date": "10/28/25",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Richard F. Boulware, II"
+        },
+        {
+          "row_index": 30,
+          "case_name": "L.M. v. Noem",
+          "case_no": "2:25-cv-02194",
+          "jurisdiction": "District of Nevada",
+          "date": "1/20/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Richard F. Boulware, II"
+        },
+        {
+          "row_index": 298,
+          "case_name": "Aguirre Solis v. Noem",
+          "case_no": "2:26-cv-00053",
+          "jurisdiction": "District of Nevada",
+          "date": "3/19/2026",
+          "violation_types": "Imposed Conditions in Violation of Order",
+          "egregious": "X",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Richard F. Boulware, II"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": false
+    },
+    "Katharine S. Hayden": {
+      "normalized_name": "Katharine S. Hayden",
+      "nc_cases": [
+        {
+          "row_index": 8,
+          "case_name": "Vicens-Marquez v. Soto",
+          "case_no": "2:25-cv-16906",
+          "jurisdiction": "District of New Jersey",
+          "date": "11/6/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katharine Sweeney Hayden"
+        },
+        {
+          "row_index": 107,
+          "case_name": "Hernandez de Paz v. Noem",
+          "case_no": "2:26-cv-00027",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katharine S. Hayden"
+        },
+        {
+          "row_index": 342,
+          "case_name": "Gomes Morangom v. Rokosky",
+          "case_no": "2:25-cv-18640",
+          "jurisdiction": "District of New Jersey",
+          "date": "1/30/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "x",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katharine S. Hayden"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": false,
+      "appointed_by": "Bill Clinton"
+    },
+    "Sunil R. Harjani": {
+      "normalized_name": "Sunil R. Harjani",
+      "nc_cases": [
+        {
+          "row_index": 9,
+          "case_name": "Reza Ayala v. Olson",
+          "case_no": "1:25-cv-13317",
+          "jurisdiction": "Northern District of Illinois",
+          "date": "11/17/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Sunil R. Harjani"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "David C. Guaderrama": {
+      "normalized_name": "David C. Guaderrama",
+      "nc_cases": [
+        {
+          "row_index": 10,
+          "case_name": "Pablo Pablo v. Lyons",
+          "case_no": "3:25-cv-00566",
+          "jurisdiction": "Western District of Texas",
+          "date": "12/5/2025",
+          "violation_types": "",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge David C. Guaderrama"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Gary R. Brown": {
+      "normalized_name": "Gary R. Brown",
+      "nc_cases": [
+        {
+          "row_index": 11,
+          "case_name": "Clarke v. Nassau County Correctional Center",
+          "case_no": "2:25-cv-06773",
+          "jurisdiction": "Eastern District of New York",
+          "date": "12/18/2025",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Gary R. Brown"
+        },
+        {
+          "row_index": 299,
+          "case_name": "Garcia Lanza v. Noem",
+          "case_no": "2:26-cv-00029",
+          "jurisdiction": "Eastern District of New York",
+          "date": "3/3/2026",
+          "violation_types": "Failure to Timely Release; Imposed Conditions on Release in Violation of Order; Failure to Return Property ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Gary R. Brown"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "Donald Trump"
+    },
+    "Sheila K. Oberto": {
+      "normalized_name": "Sheila K. Oberto",
+      "nc_cases": [
+        {
+          "row_index": 12,
+          "case_name": "Barrientos v. Chestnut",
+          "case_no": "1:25-cv-01490",
+          "jurisdiction": "Eastern District of California",
+          "date": "12/22/2025",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge Sheila K. Oberto"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Dale Alan Drozd": {
+      "normalized_name": "Dale Alan Drozd",
+      "nc_cases": [
+        {
+          "row_index": 13,
+          "case_name": "Singh v. Lyons",
+          "case_no": "1:25-cv-01975",
+          "jurisdiction": "Eastern District of California",
+          "date": "12/27/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Dale Alan Drozd"
+        },
+        {
+          "row_index": 296,
+          "case_name": "(HC) Zambrano Rodriguez v. Warden, California City Correctional Center",
+          "case_no": "2:26-cv-00914",
+          "jurisdiction": "Eastern District of California",
+          "date": "3/23/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Dale Alan Drozd"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Jeffrey M. Bryan": {
+      "normalized_name": "Jeffrey M. Bryan",
+      "nc_cases": [
+        {
+          "row_index": 14,
+          "case_name": "Hakan K. v. Noem, et al.",
+          "case_no": "25-CV-4722",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/6/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 23,
+          "case_name": "Jhony A. v. Bondi, et al.",
+          "case_no": "26-CV-146",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/20/2026",
+          "violation_types": "Failure to Timely Release, Failure to Hold Bond Hearing, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 24,
+          "case_name": "Pascual G. v. Bondi, et al.",
+          "case_no": "26-CV-161",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/20/2026",
+          "violation_types": "Failure to Timely Release, Failure to Hold Bond Hearing, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 25,
+          "case_name": "Martin R. v. Bondi, et al.",
+          "case_no": "26-CV-168",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/20/2026 ; 2) 1/21/2026 ; 3) 1/22/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release in Violation of Order, Failure to Hold Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 34,
+          "case_name": "Francisco M. v. Bondi, et al.",
+          "case_no": "26-CV-369",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/23/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 39,
+          "case_name": "Ihor D. v. Noem, et al.",
+          "case_no": "26-CV-351",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/20/2026 ; 2) 1/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 40,
+          "case_name": "Sandra C. v. Bondi, et al.",
+          "case_no": "26-CV-283",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/24/2026",
+          "violation_types": "Transfer Despite Order, Failure to Return Detainee, Failure to Provide Bond Hearing, Misrepresentation to the Court, Failure to Return Property, Failure to File, Imposed Conditions on Release in Violation of Order, Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 48,
+          "case_name": "Abdirahman S. v. Bondi, et al.",
+          "case_no": "26-CV-440",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/27/2026 ; 2) 1/20/2026 ; 3) 1/20/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release in Violation of Order, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 49,
+          "case_name": "Jose A. v. Noem, et al.",
+          "case_no": "26-CV-480",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/26/2026 ; 2) 1/27/2026",
+          "violation_types": "Failure to Provide Bond Hearing, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 50,
+          "case_name": "Maria P. v. Brott, et al.",
+          "case_no": "26-CV-504",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/27/2026 ; 2) 2/20/2026 ; 3) 2/20/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Failure to Return Property, Imposed Conditions In Violation of Terms of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 59,
+          "case_name": "Isidro L. v. Lyons, et al.",
+          "case_no": "26-CV-537",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/30/2026 ; 2) 2/20/2026",
+          "violation_types": "Failure to File, Imposed Conditions in Violation of Terms of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 69,
+          "case_name": "Auquilla Yuquilema v. Easterwood",
+          "case_no": "0:26-cv-00874",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/4/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 74,
+          "case_name": "Poaquiza Ruiz v. Easterwood",
+          "case_no": "0:26-cv-00988",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/9/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 145,
+          "case_name": "Abdiqadir A. v. Bondi, et al.",
+          "case_no": "26-CV-272",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 147,
+          "case_name": "Carlo Gomes v. Bondi",
+          "case_no": "0:26-cv-01242",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/20/2026 ; 2) 2/20/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order, Failure to Return PropertyI",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 150,
+          "case_name": "Xiong v. Noem ",
+          "case_no": "0:26-cv-01548",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/23/2026 ; 2) 2/27/2026 ; 3) 2/27/2026",
+          "violation_types": "Failure to File, Failure to Return Property, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 154,
+          "case_name": "Vera Espana v. Bondi",
+          "case_no": "0:26-cv-01363",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/20/2026 ; 2) 2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to File, Imposed Conditions on Release in Violation of Order, Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 155,
+          "case_name": "Analuisa Toapanta v. Bondi",
+          "case_no": "0:26-cv-01414",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/17/2026 ; 2) 2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 156,
+          "case_name": "Saul N. v. Lyons, et al",
+          "case_no": "0:26-CV-00114",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/27/2026 ; 2) 2/20/2026 ; 3) 2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to File, imposed Conditions on Release in Violation of Order, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 173,
+          "case_name": "Paula G. v. Bondi, et al.",
+          "case_no": "26-CV-410",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/20/2026 ; 2) 2/26/2026",
+          "violation_types": "Failure to Timely Release, Unauthorized Transfer, Failure to Return Detainee, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 177,
+          "case_name": "Enrique L. v. Bondi, et al.",
+          "case_no": "26-CV-00444",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 207,
+          "case_name": "Joel R. v. Bondi",
+          "case_no": "26-CV-605",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to Timely Release, Failure to Return Detainee, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 219,
+          "case_name": "Francisco Z. v. Bondi",
+          "case_no": "26-CV-722",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Detainee, Failure to Timely Release, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 222,
+          "case_name": "Julio C. v. Bondi et al.",
+          "case_no": "26-CV-744",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Property, Failure to File, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 223,
+          "case_name": "Angel B. v. Bondi et al.",
+          "case_no": "26-CV-751",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 232,
+          "case_name": "Angel O. v. Noem, et al.",
+          "case_no": "26-CV-822",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 237,
+          "case_name": "Emilio P. v. Bondi",
+          "case_no": "26-CV-850",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/26/2026 ; 2) 3/2/2026",
+          "violation_types": "Removal/Deportation Despite Court Order, Failure to Timely Release, Failure to Return Detainee",
+          "egregious": "X",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 253,
+          "case_name": "George A. v. Easterwood, et al.",
+          "case_no": "26-CV-983",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 266,
+          "case_name": "Portillo Fajardo v. Noem",
+          "case_no": "0:26-cv-00658",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 267,
+          "case_name": "Duenas Alonso v. Easterwood",
+          "case_no": "0:26-cv-00659",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 268,
+          "case_name": "Mohamed v. Bondi",
+          "case_no": "0:26-cv-00680",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 269,
+          "case_name": "Puluchi Zumba v. Bondi",
+          "case_no": "0:26-cv-00828",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 270,
+          "case_name": "Quitio Guasco v. Bondi",
+          "case_no": "0:26-cv-00887",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 271,
+          "case_name": "Cordoba-Lopez v. Noem",
+          "case_no": "0:26-cv-00923",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 272,
+          "case_name": "Yusuf v. Noem",
+          "case_no": "0:26-cv-01006",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 273,
+          "case_name": "Hernandez v. Bondi",
+          "case_no": "0:26-cv-01034",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 274,
+          "case_name": "Nur v. Bondi",
+          "case_no": "0:26-cv-01059",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 275,
+          "case_name": "Suquilanda Morocho v. Bondi",
+          "case_no": "0:26-cv-01105",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 276,
+          "case_name": "Mohamed v. Noem",
+          "case_no": "0:26-cv-01147",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 277,
+          "case_name": "Perez Juarez v. Noem",
+          "case_no": "0:26-cv-01157",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 278,
+          "case_name": "Yang v. Noem",
+          "case_no": "0:26-cv-01210",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 279,
+          "case_name": "Chy v. Bondi",
+          "case_no": "0:26-cv-01250",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 280,
+          "case_name": "Huete Escoto v. Bondi",
+          "case_no": "0:26-cv-01255",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 281,
+          "case_name": "Freire Altamirano v. Bondi",
+          "case_no": "0:26-cv-01275",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 282,
+          "case_name": "Peralta v. Bondi",
+          "case_no": "0:26-cv-01316",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Provide Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 300,
+          "case_name": "Izea v. Bondi",
+          "case_no": "0:26-cv-01499",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/27/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order; Failure to Return Property ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 301,
+          "case_name": "Colmenares Torrealba v. Bondi",
+          "case_no": "0:26-cv-01433",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/17/2026 ; 2) 2/20/2026 ; 3) 2/20/2026",
+          "violation_types": "Failure to File; Imposed Conditions on Release in Violation of Order; Failure to Return Property ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 302,
+          "case_name": "Zhumi Chilpe v. Bondi",
+          "case_no": "0:26-cv-00299",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/13/2026 ; 2) 2/20/2026 ; 3) 3/6/2026",
+          "violation_types": "Failure to File; Imposed Conditions on Release in Violation of Order; Failure to Return Property ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 303,
+          "case_name": "Tigasi Cuchipe",
+          "case_no": "0:26-cv-01565",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/27/2026",
+          "violation_types": "Failure to File; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 306,
+          "case_name": "Melara Gutierrez v. Noem",
+          "case_no": "0:26-cv-00559",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/29/2026 ; 2) 2/20/2026",
+          "violation_types": "Failure to File; Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 308,
+          "case_name": "Lala Huerta v. Bondi",
+          "case_no": "0:26-cv-00382",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 309,
+          "case_name": "Majadla v. Isais",
+          "case_no": "0:26-cv-00206",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/15/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 310,
+          "case_name": "Siad v. Noem",
+          "case_no": "0:26-cv-00476",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order; Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 311,
+          "case_name": "Perez v. Bondi",
+          "case_no": "0:26-cv-00488",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order; Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 313,
+          "case_name": "Nava Blanco v. Bondi",
+          "case_no": "0:26-cv-00226",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Failure to File; Imposed Conditions on Release in Violation of Order ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 314,
+          "case_name": "Mendoza Mejia v. Bondi",
+          "case_no": "0:26-cv-00284",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Failure to File; Imposed Conditions on Release in Violation of Order ",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 323,
+          "case_name": "Dominguez Dominguez v. Noem",
+          "case_no": "0:26-cv-00413",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/20/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 344,
+          "case_name": "Simbana Anguisaca v. Bondi",
+          "case_no": "0:26-cv-02004",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        },
+        {
+          "row_index": 345,
+          "case_name": "Vivas Rodriguez v. Olson",
+          "case_no": "0:26-cv-00044",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Failure to File, Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jeffrey M. Bryan"
+        }
+      ],
+      "nc_case_count": 59,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Jerry W. Blackwell": {
+      "normalized_name": "Jerry W. Blackwell",
+      "nc_cases": [
+        {
+          "row_index": 15,
+          "case_name": "Lida E.G.Q. v. Executive Office for Immigration Review, et al.",
+          "case_no": "26-CV-138",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/9/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 17,
+          "case_name": "Estefany J.S. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-216",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/13/2026 ; 2) 1/20/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 20,
+          "case_name": "Cruz Paredes v. Lyons",
+          "case_no": "26-CV-164",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/19/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 21,
+          "case_name": "Oscar O.T. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-167",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/19/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 22,
+          "case_name": "Jose L.C.C. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-244",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/19/2026 ; 2) 1/22/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release in Violation of Order, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 26,
+          "case_name": "Martha S.S. v. Kristi Noem, et al.",
+          "case_no": "26-CV-231",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/20/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 41,
+          "case_name": "Ronnie C. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-423",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 57,
+          "case_name": "Adriana M.Y.M. v. David Easterwood, et al.",
+          "case_no": "26-CV-213",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/29/2026",
+          "violation_types": "Failure to Return Detainee, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 64,
+          "case_name": "Nazarov v. Trump",
+          "case_no": "0:26-cv-00282",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/2/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 79,
+          "case_name": "Francisco Toribio v. Bondi",
+          "case_no": "0:26-cv-01020",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/10/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 137,
+          "case_name": "Santiago Martinez v. Bondi",
+          "case_no": "0:26-cv-01200",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/13/2026 ; 2) 2/17/2026",
+          "violation_types": "Failure to File, Failure to Timely Release, Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 158,
+          "case_name": "Alex V.Y.L. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-031",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 161,
+          "case_name": "Christopher A.F.E. v. Bondi, et al.",
+          "case_no": "26-CV-150",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 170,
+          "case_name": "Felix J.C.A. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-328",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 176,
+          "case_name": "Maria U.C.G. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-439",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 179,
+          "case_name": "Sonia M.M.C. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-457",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 180,
+          "case_name": "Ivan R. v. Pamela Bondi, et al.",
+          "case_no": "26-CV-485",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 199,
+          "case_name": "Ruth H.P. v. Noem, et al.",
+          "case_no": "26-CV-529",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 200,
+          "case_name": "Indriany S.M.C. v. Easterwood et al.",
+          "case_no": "26-CV-539",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/26/2026 ; 2) 2/26/2026",
+          "violation_types": "Failure to File, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 205,
+          "case_name": "Amparo M.T.T. v. Bondi et al.",
+          "case_no": "26-CV-598",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 206,
+          "case_name": "Segundo A.P.G. v. Bondi et al.",
+          "case_no": "26-CV-603",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 214,
+          "case_name": "Juan V.A.C. v. Bondi et al.",
+          "case_no": "26-CV-645",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 224,
+          "case_name": "Hassan H. v. Bondi et al.",
+          "case_no": "26-CV-770",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 225,
+          "case_name": "Karla R.C. v. Olson, et al.",
+          "case_no": "26-CV-773",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 229,
+          "case_name": "Katheryn S.A.C. v. Noem et al.",
+          "case_no": "26-CV-815",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 230,
+          "case_name": "Ricardo I.S.S. v. Noem, et al.",
+          "case_no": "26-CV-816",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 236,
+          "case_name": "Domingo L.T. v. Bondi, et al.",
+          "case_no": "26-CV-835",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 243,
+          "case_name": "Antonia D.L.A.C.R. v. Easterwood, et al.",
+          "case_no": "26-CV-873",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 244,
+          "case_name": "A.L.D.A.T.C. v. Easterwood, et al.",
+          "case_no": "26-CV-875 ",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 245,
+          "case_name": "Junior O.P.V. v. Bondi, et al.",
+          "case_no": "26-CV-890",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 246,
+          "case_name": "Jose M.L.H. v. Easterwood, et al.",
+          "case_no": "26-CV-893",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 251,
+          "case_name": "Jonathan A.L.L. v. Lyons, et al.",
+          "case_no": "26-CV-968",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 256,
+          "case_name": "Haidee C.C. v. Bondi, et al.",
+          "case_no": "26-CV-1022",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        },
+        {
+          "row_index": 287,
+          "case_name": "Gonzalez Espinosa v. Lyons",
+          "case_no": "2:26-cv-00945",
+          "jurisdiction": "District of New Jersey",
+          "date": "3/6/2026",
+          "violation_types": "Failure to Hold Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jerry W. Blackwell"
+        }
+      ],
+      "nc_case_count": 34,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Keith P. Ellison": {
+      "normalized_name": "Keith P. Ellison",
+      "nc_cases": [
+        {
+          "row_index": 16,
+          "case_name": "dcosta v. Warden of the Immigration Detentioni Facility",
+          "case_no": "4:25-cv-06177",
+          "jurisdiction": "Southern District of Texas",
+          "date": "1/9/2026",
+          "violation_types": "Removal/Deportation Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Keith P. Ellison"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Bill Clinton"
+    },
+    "Patrick J. Schiltz": {
+      "normalized_name": "Patrick J. Schiltz",
+      "nc_cases": [
+        {
+          "row_index": 18,
+          "case_name": "Juan T.R. v. Noem, et al.",
+          "case_no": "26-CV-0107",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/14/2026",
+          "violation_types": "Failure to Timely Release, Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 28,
+          "case_name": "Gumirov v. Bondi",
+          "case_no": "0:26-cv-00375",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/20/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 44,
+          "case_name": "Bunay-Inga v. Bondi",
+          "case_no": "0:26-cv-00393",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/26/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. Distrct Judge Patrick J. Schlitz"
+        },
+        {
+          "row_index": 166,
+          "case_name": "Jesus A.P. v. Bondi, et al.",
+          "case_no": "26-CV-261",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 168,
+          "case_name": "Joseph T.M. v. Bondi, et al.",
+          "case_no": "26-CV-0309",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 196,
+          "case_name": "Victor S.A. v. Bondi",
+          "case_no": "26-CV-0443 ",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 208,
+          "case_name": "Maximiliano D.T. v. Noem et al.",
+          "case_no": "26-CV-0610",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 254,
+          "case_name": "Alfredo A., et al. v. Easterwood, et al.",
+          "case_no": "26-CV-1016",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 258,
+          "case_name": "Jorge P.M. v. Bondi, et al.",
+          "case_no": "26-CV-1065",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 318,
+          "case_name": "Chege v. Easterwood",
+          "case_no": "0:26-cv-00394",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/21/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 338,
+          "case_name": "Inga Capito v. Bondi",
+          "case_no": "0:26-cv-00234",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/20/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 343,
+          "case_name": "Omar v. Noem",
+          "case_no": "0:26-cv-00083",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/14/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 347,
+          "case_name": "Quintero Rosales v. Noem",
+          "case_no": "0:26-cv-01307",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/14/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        },
+        {
+          "row_index": 349,
+          "case_name": "Garcia Aragon v. Bondi",
+          "case_no": "0:26-cv-01013",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/7/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "U.S. District Chief Judge Patrick J. Schiltz"
+        }
+      ],
+      "nc_case_count": 14,
+      "in_litigation_tracker": false,
+      "appointed_by": "George W. Bush"
+    },
+    "Laura M. Provinzino": {
+      "normalized_name": "Laura M. Provinzino",
+      "nc_cases": [
+        {
+          "row_index": 19,
+          "case_name": "Botir B. v. Bondi, et al.",
+          "case_no": "26-CV-130",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/15/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 38,
+          "case_name": "Bashir Ali K. v. Noem, et al.",
+          "case_no": "26-CV-276",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 42,
+          "case_name": "Rendon Chavez v. Bondi",
+          "case_no": "26-CV-436",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 47,
+          "case_name": "Joaquin Q. L. v. Bondi, et al.",
+          "case_no": "26-CV-233",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/27/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 52,
+          "case_name": "Josue David P. A. v. Bondi, et al. ",
+          "case_no": "26-CV-396",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/28/2026",
+          "violation_types": "Failure to Return Detainee, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 60,
+          "case_name": "Khang v. Easterwood",
+          "case_no": "0:26-cv-00527",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/30/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 72,
+          "case_name": "Guaman Alvarez v. Bondi",
+          "case_no": "26-CV-941",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/6/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order, Failure to Return Property, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 135,
+          "case_name": "Veintimilla Laje v. Bondi",
+          "case_no": "0:26-cv-01092",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provenzino"
+        },
+        {
+          "row_index": 136,
+          "case_name": "Cambera Suarez v. Bondi",
+          "case_no": "0:26-cv-01052",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provenzino"
+        },
+        {
+          "row_index": 138,
+          "case_name": "Sanchez Erazo v. Bondi",
+          "case_no": "0:26-cv-01410",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M Provinzino"
+        },
+        {
+          "row_index": 141,
+          "case_name": "Soto Jimenez v. Bondi",
+          "case_no": "26-CV-957",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/18/2026 ; 2) 2/20/2026",
+          "violation_types": "Failure to File, Failure to Return Property, Failure to Timely Release, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 188,
+          "case_name": "Bishar Ahmed A. v. Bondi et al.",
+          "case_no": "26-CV-197 ",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Provide Bond Hearing, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 190,
+          "case_name": "Edwin Mauricio Z. P. v. Bondi et al.",
+          "case_no": "26-CV-222",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Misrepresentation to the Court",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 192,
+          "case_name": "Stalin Fernando C. T. v. Bondi et al.",
+          "case_no": "26-CV-247",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release, Failure to Hold Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 193,
+          "case_name": "Eliseo M. M. v. Noem et al.",
+          "case_no": "26-CV-255 ",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Hold Bond Hearing, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 204,
+          "case_name": "Luis I. A. v. Easterwood et al.",
+          "case_no": "26-CV-585",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Provide Bond Hearing, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 211,
+          "case_name": "Jordy Steven C. J. v. Bondi et al.",
+          "case_no": "26-CV-632",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 217,
+          "case_name": "Walter Rodrigo I. M. v. Noem et al.",
+          "case_no": "26-CV-698",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to File, Misrepresentation to the Court",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 218,
+          "case_name": "Yousef H. v. Noem et al.",
+          "case_no": "26-CV-716",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release, Failure to Hold Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 241,
+          "case_name": "Daniel Felipe C. C. v. Bondi et al.",
+          "case_no": "26-CV-863",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 249,
+          "case_name": "Juan Carlos G.A. v. Bondi et al.",
+          "case_no": "26-CV-941",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Imposed Conditions In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 261,
+          "case_name": "Bryan Israel P. R. v. Noem et al.",
+          "case_no": "26-CV-1213",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to Return Detainee, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 265,
+          "case_name": "Manolo Z. L. v. Trump, et al.",
+          "case_no": "26-CV-316",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        },
+        {
+          "row_index": 331,
+          "case_name": "Alvarado Rodriguez v. Bondi",
+          "case_no": "0:26-cv-00907",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/9/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Laura M. Provinzino"
+        }
+      ],
+      "nc_case_count": 24,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "Fridley Public School District, Independent School District 14 v. Noem",
+          "docket_number": "0:26-cv-01023",
+          "executive_action": "ICE Enforcement Near Schools",
+          "status": "Suit Filed",
+          "battle_id": 401
+        }
+      ]
+    },
+    "Susan Richard Nelson": {
+      "normalized_name": "Susan Richard Nelson",
+      "nc_cases": [
+        {
+          "row_index": 27,
+          "case_name": "Liban G. v. Noem, et al.",
+          "case_no": "26-CV-301",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/22/2026",
+          "violation_types": "Transfer Despite Order, Failure to Return Detainee, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 81,
+          "case_name": "Alvarez Mancia v. Bondi",
+          "case_no": "0:26-cv-00415",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/11/2026",
+          "violation_types": "Failure to Provide Bond Hearing, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 140,
+          "case_name": "Acuna Cruz v. Easterwood",
+          "case_no": "0:26-cv-01393",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/18/2026",
+          "violation_types": "Misc",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 152,
+          "case_name": "Flores Miguel v. Bondi",
+          "case_no": "0:26-cv-00469",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/25/2026",
+          "violation_types": "Failure to File, Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 163,
+          "case_name": "Andrei C. v. Lyons, et al.",
+          "case_no": "26-CV-166",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 165,
+          "case_name": "Juan R. v. Bondi, et al.",
+          "case_no": "26-CV-252",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 175,
+          "case_name": "Darvin M. v. Bondi, et al.",
+          "case_no": "26-CV-437",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 212,
+          "case_name": "Luis C. v. Bondi et al.",
+          "case_no": "26-CV-636",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        },
+        {
+          "row_index": 242,
+          "case_name": "Gabriel J. v. Bondi et al.",
+          "case_no": "26-CV-865",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Richard Nelson"
+        }
+      ],
+      "nc_case_count": 9,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Daniel J. Calabretta": {
+      "normalized_name": "Daniel J. Calabretta",
+      "nc_cases": [
+        {
+          "row_index": 29,
+          "case_name": "Rivas v. Warden of the Golden State Annex Detention Facility",
+          "case_no": "1:26-cv-00201",
+          "jurisdiction": "Eastern District of California",
+          "date": "1/20/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 32,
+          "case_name": "Perez Castano v. Warden of the Golden State Annex Detention Facility, Tonya Andrews",
+          "case_no": "1:26-cv-00243",
+          "jurisdiction": "Eastern District of California",
+          "date": "1/22/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 35,
+          "case_name": "Singh v. Chestnut",
+          "case_no": "1:26-cv-00389",
+          "jurisdiction": "Eastern District of California",
+          "date": "1/23/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 51,
+          "case_name": "Singh v. Chestnut",
+          "case_no": "1:26-cv-00550",
+          "jurisdiction": "Eastern District of California",
+          "date": "1/27/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 55,
+          "case_name": "Wei v. Chestnut",
+          "case_no": "1:26-cv-00482",
+          "jurisdiction": "Eastern District of California",
+          "date": "1/28/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 58,
+          "case_name": "(HC) Reynoso Nunez v. Noem",
+          "case_no": "1:26-cv-00600",
+          "jurisdiction": "Eastern District of California",
+          "date": "1/29/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 62,
+          "case_name": "Garcilazo v. Warden",
+          "case_no": "1:26-cv-00657",
+          "jurisdiction": "Eastern District of California",
+          "date": "2/1/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        },
+        {
+          "row_index": 363,
+          "case_name": "Mikhail v. Bondi",
+          "case_no": "1:26-cv-01072",
+          "jurisdiction": "Eastern District of California",
+          "date": "2/25/2026",
+          "violation_types": "Failure to File; Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Daniel J. Calabretta"
+        }
+      ],
+      "nc_case_count": 8,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Michael J. Davis": {
+      "normalized_name": "Michael J. Davis",
+      "nc_cases": [
+        {
+          "row_index": 31,
+          "case_name": "Navos Nieto v. Bondi",
+          "case_no": "0:26-cv-00421",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/22/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael J. Davis"
+        },
+        {
+          "row_index": 73,
+          "case_name": "Leon Redrovan v. Bondi",
+          "case_no": "0:26-cv-00607",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/8/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael J. Davis"
+        },
+        {
+          "row_index": 142,
+          "case_name": "Pineros Quinteros v. Bondi",
+          "case_no": "0:26-cv-01055",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/18/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael J. David"
+        },
+        {
+          "row_index": 148,
+          "case_name": "Lopez Garcia v. Easterwood",
+          "case_no": "0:26-cv-00676",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael J. Davis"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false,
+      "appointed_by": "Bill Clinton"
+    },
+    "John R. Tunheim": {
+      "normalized_name": "John R. Tunheim",
+      "nc_cases": [
+        {
+          "row_index": 33,
+          "case_name": "Francisco E.O. v. Olson, et al.",
+          "case_no": "26-CV-080",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/23/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 160,
+          "case_name": "Sharet B.G.M. v. Lyons, et al.",
+          "case_no": "26-CV-12",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Detainee, Failure to Timely Release, Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 174,
+          "case_name": "J.B.C.O., et al., v. Bondi, et al.",
+          "case_no": "26-CV-0424",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/25/2026 ; 2) 3/6/2026",
+          "violation_types": "Failure to File, Failure to Timely Release, Failure to Return Detainee, Failure to Return Property, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "X #14",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 178,
+          "case_name": "Alexis D.A.M. v. Bondi, et al.",
+          "case_no": "26-CV-447",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 181,
+          "case_name": "Yosber I.M.C. v. Bondi, et al.",
+          "case_no": "26-CV-489",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 195,
+          "case_name": "U.H.A. v. Bondi et al.",
+          "case_no": "26-CV-417",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Coordinate with Counsel, Failure to Return Detainee, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 197,
+          "case_name": "Jhisvin A.B.V.A. v. Bondi et al.",
+          "case_no": "26-CV-455",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 213,
+          "case_name": "S.M. v. Bondi et al.",
+          "case_no": "26-CV-639",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 227,
+          "case_name": "Roberto N. v. Bondi et al.",
+          "case_no": "26-CV-799",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 234,
+          "case_name": "Rosemary N.A. v. Easterwood et al.",
+          "case_no": "26-CV-832",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/26/2026 ; 2) 3/6/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release in Violation of Court Order, Failure to Return Property, Misrepresentation to the Court",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 239,
+          "case_name": "Gabriel A.H.L. v. Noem et al.",
+          "case_no": "26-CV-860",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 240,
+          "case_name": "Mervis E.A.M. v. Bondi",
+          "case_no": "26-CV-00861",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 247,
+          "case_name": "Rafael A.P.A. v. Bondi et al. ",
+          "case_no": "26-CV-906",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 248,
+          "case_name": "Luis A.Z.H. v. Bondi et al.",
+          "case_no": "26-CV-915",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee, Failure to Provide Detainee Medication",
+          "egregious": "X",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 255,
+          "case_name": "Brayan A.L. v. Bondi et al.",
+          "case_no": "26-CV-1019",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Coordinate with Counsel, Failure to File, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 259,
+          "case_name": "Jonathan P.Y.G. v. Bondi et al.",
+          "case_no": "26-CV-1100",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Coordinate With Counsel",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 283,
+          "case_name": "Chacon Eumana v. Bondi",
+          "case_no": "0:26-cv-01286",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/2/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 285,
+          "case_name": "Morales Lopez v. Bondi",
+          "case_no": "0:26-cv-01429",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/6/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 286,
+          "case_name": "Sun Chajon v. Bondi",
+          "case_no": "0:26-cv-00778",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/6/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 325,
+          "case_name": "Roberto Rodriguez Garcia v. Bondi",
+          "case_no": "0:26-cv-01204",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/18/26",
+          "violation_types": "Imposed Conditions on Release in Violation of Order; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. DIstrict Judge John R. Tunheim"
+        },
+        {
+          "row_index": 327,
+          "case_name": "Garcia Gonzales v. Bondi",
+          "case_no": "0:26-cv-01407",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/3/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 335,
+          "case_name": "Soriano Ramos v. Noem",
+          "case_no": "0:26-cv-00502",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/29/2026",
+          "violation_types": "Failure to Timely Release; Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        },
+        {
+          "row_index": 339,
+          "case_name": "Suleiman v. Bondi",
+          "case_no": "0:26-cv-00735",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/30/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John R. Tunheim"
+        }
+      ],
+      "nc_case_count": 23,
+      "in_litigation_tracker": true,
+      "appointed_by": "Bill Clinton",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "U.H.A. v. Bondi",
+          "docket_number": "0:26-cv-00417",
+          "executive_action": "Detention of Refugees in Minnesota",
+          "status": "TRO Granted",
+          "battle_id": 391
+        }
+      ]
+    },
+    "Dulce J. Foster": {
+      "normalized_name": "Dulce J. Foster",
+      "nc_cases": [
+        {
+          "row_index": 36,
+          "case_name": "Navos Morocho v. Noem",
+          "case_no": "0:26-cv-00224",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/23/26",
+          "violation_types": "Failure to File, Failure to Timely Release, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge Dulce J. Foster"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Eric C. Tostrud": {
+      "normalized_name": "Eric C. Tostrud",
+      "nc_cases": [
+        {
+          "row_index": 37,
+          "case_name": "Luis S. v. Bondi, et al.",
+          "case_no": "26-CV-454",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/24/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Eric C. Tostrud"
+        },
+        {
+          "row_index": 149,
+          "case_name": "Fernando T. v. Noem, et al.",
+          "case_no": "26-CV-445",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/23/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Eric C. Tostrud"
+        },
+        {
+          "row_index": 250,
+          "case_name": "Fredy S. v. Bondi",
+          "case_no": "26-CV-961",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Eric C. Tostrud"
+        },
+        {
+          "row_index": 351,
+          "case_name": "Gomez Corea v. Bondi",
+          "case_no": "0:26-cv-00494",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/24/26",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Eric C. Tostrud"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": true,
+      "appointed_by": "Donald Trump",
+      "lit_case_count": 3,
+      "lit_cases": [
+        {
+          "case_name": "United States v. Minnesota",
+          "docket_number": "0:25-cv-03798",
+          "executive_action": "Challenge to State Law",
+          "status": "Suit Filed",
+          "battle_id": 34
+        },
+        {
+          "case_name": "Hussen v. Noem",
+          "docket_number": "0:26-cv-00324",
+          "executive_action": "Operation Metro Surge",
+          "status": "PI Denied",
+          "battle_id": 390
+        },
+        {
+          "case_name": "Minnesota Bureau of Criminal Apprehension v. Noem",
+          "docket_number": "0:26-cv-00628",
+          "executive_action": "Shooting of Alex Pretti",
+          "status": "TRO Denied",
+          "battle_id": 393
+        }
+      ]
+    },
+    "Katherine M. Menendez": {
+      "normalized_name": "Katherine M. Menendez",
+      "nc_cases": [
+        {
+          "row_index": 43,
+          "case_name": "Diaz Toscano v. Bondi",
+          "case_no": "26\u2013CV-448",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 164,
+          "case_name": "Abdi W. v. Trump, et al.",
+          "case_no": "26-CV-00208",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 172,
+          "case_name": "Nadejda P. v. Lyons, et al.",
+          "case_no": "26-CV-00404",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 185,
+          "case_name": "Elvis T. E., et al. v. Bondi, et al.",
+          "case_no": "26-CV-00561",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 216,
+          "case_name": "Pedro D. v. Bondi et al.",
+          "case_no": "26-CV-688 ",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Property, Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 220,
+          "case_name": "Claudio A.A. v. Bondi",
+          "case_no": "26-CV-742",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Detainee, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 231,
+          "case_name": "Guadalupe O.G. v. Bondi, et al.",
+          "case_no": "26-CV-820",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 257,
+          "case_name": "Ibrahime D. v. Bondi, et al.",
+          "case_no": "26-CV-1046",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 264,
+          "case_name": "Lucio C.A. v. Noem",
+          "case_no": "26-CV-1441",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 319,
+          "case_name": "Martinez Sandoval v. Noem",
+          "case_no": "0:26-cv-00264",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/13/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 334,
+          "case_name": "Yuquilema Llumi v. Lyons",
+          "case_no": "0:26-cv-00823",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/7/2026",
+          "violation_types": "Failure to Timely Release; Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        },
+        {
+          "row_index": 348,
+          "case_name": "Herrera Chavez v. Bondi",
+          "case_no": "0:26-cv-00391",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/21/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Katherine M. Menendez"
+        }
+      ],
+      "nc_case_count": 12,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 4,
+      "lit_cases": [
+        {
+          "case_name": "United States of America v. Walz",
+          "docket_number": "0:25-cv-02668",
+          "executive_action": "Challenge to State Law",
+          "status": "Suit Filed",
+          "battle_id": 209
+        },
+        {
+          "case_name": "United States v. Minnesota",
+          "docket_number": "0:25-cv-03761",
+          "executive_action": "Challenge to State Law",
+          "status": "Suit Filed",
+          "battle_id": 34
+        },
+        {
+          "case_name": "Tincher v. Noem",
+          "docket_number": "0:25-cv-04669",
+          "executive_action": "Operation Metro Surge",
+          "status": "PI Appealed",
+          "battle_id": 377
+        },
+        {
+          "case_name": "Minnesota v. Noem",
+          "docket_number": "0:26-cv-00190",
+          "executive_action": "Operation Metro Surge",
+          "status": "PI Denied",
+          "battle_id": 386
+        }
+      ]
+    },
+    "Evelyn Padin": {
+      "normalized_name": "Evelyn Padin",
+      "nc_cases": [
+        {
+          "row_index": 45,
+          "case_name": "Martin v. Soto",
+          "case_no": "2:25-cv-18299",
+          "jurisdiction": "District of New Jersey",
+          "date": "1/26/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Evelyn Padin"
+        },
+        {
+          "row_index": 86,
+          "case_name": "Antunes Parreiras Bastos v. Soto",
+          "case_no": "26-CV-00690",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Evelyn Padin"
+        },
+        {
+          "row_index": 114,
+          "case_name": "Udzilauri v. Lyons",
+          "case_no": "2:26-cv-01238",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Evelyn Padin"
+        },
+        {
+          "row_index": 121,
+          "case_name": "Moreira da Silva v. Laforge",
+          "case_no": "2:25-cv-17095",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Evelyn Padin"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "United States v. Newark",
+          "docket_number": "2:25-cv-05081",
+          "executive_action": "Challenge to Local Law",
+          "status": "Suit Filed",
+          "battle_id": 241
+        }
+      ]
+    },
+    "Elsa M. Bullard": {
+      "normalized_name": "Elsa M. Bullard",
+      "nc_cases": [
+        {
+          "row_index": 46,
+          "case_name": "Velasquez Guasti v. Bondi",
+          "case_no": "0:26-cv-00460",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/20/2026; 2) 1/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge Elsa M. Bullard"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Nancy E. Brasel": {
+      "normalized_name": "Nancy E. Brasel",
+      "nc_cases": [
+        {
+          "row_index": 53,
+          "case_name": "Hector T.G. v. Bondi, et al.",
+          "case_no": "26-CV-449",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/28/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 56,
+          "case_name": "Evelin M.A. v. Bondi, et al.",
+          "case_no": "26-CV-156",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/29/2026",
+          "violation_types": "Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 153,
+          "case_name": "Luis L.P. v. Brott, et al.",
+          "case_no": "25-CV-4741",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 159,
+          "case_name": "Marlon M.M. v. Easterwood, et al.",
+          "case_no": "26-CV-106",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 162,
+          "case_name": "Jose A. v. Bondi, et al.",
+          "case_no": "26-CV-160",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee, Failure to Provide Detainee Medication",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 167,
+          "case_name": "Yeylin C.R. v. Bondi, et al.",
+          "case_no": "26-CV-296",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 169,
+          "case_name": "Diana L.-C. v. Bondi, et al.",
+          "case_no": " 26-CV-319",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 182,
+          "case_name": "Fabian L.C. v. Bondi, et al.",
+          "case_no": "26-CV-493",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 183,
+          "case_name": "Brayan M.O. v. Bondi, et al.",
+          "case_no": "26-CV-517",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 189,
+          "case_name": "Paulo S. v. Bondi, et al.",
+          "case_no": "26-CV-221",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Release, Failure to Hold Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 191,
+          "case_name": "Lesly M.M. v. Bondi, et al.",
+          "case_no": "26-CV-237",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 198,
+          "case_name": "Kaw B.H. v. Noem, et al.",
+          "case_no": "26-CV-483",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 201,
+          "case_name": "Rudy P.A. v. Bondi, et al.",
+          "case_no": "26-CV-563",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 209,
+          "case_name": "Agustina R.E. v. Bondi, et al.",
+          "case_no": "26-CV-612",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Coordinate with Counsel, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 210,
+          "case_name": "Brandon P.S. v. Bondi, et al.",
+          "case_no": "26-CV-626",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Detainee, Failure to Timely Release, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 215,
+          "case_name": "Hilaria P.C. v. Noem, et al.",
+          "case_no": "26-CV-687",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 226,
+          "case_name": "Christian C.C. v. Noem, et al.",
+          "case_no": "26-CV-793",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 228,
+          "case_name": "Diego V.M. v. Bondi, et al.",
+          "case_no": "26-CV-814",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to Coordinate with Counsel, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 238,
+          "case_name": "Juan Gabriel M.A. v. Bondi, et al.",
+          "case_no": " 26-CV-852",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 252,
+          "case_name": "Wilmer M.A. v. Bondi, et al.",
+          "case_no": "26-CV-975",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 262,
+          "case_name": "Erika Vanesa L.-V. v. Bondi, et al.",
+          "case_no": "26-CV-1219",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to Return Detainee, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        },
+        {
+          "row_index": 263,
+          "case_name": "Jose Antonia H.S. v. Bondi, et al.",
+          "case_no": "26-CV-1253",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nancy E. Brasel"
+        }
+      ],
+      "nc_case_count": 22,
+      "in_litigation_tracker": true,
+      "appointed_by": "Donald Trump",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "The Advocates for Human Rights v. U.S. Department of Homeland Security",
+          "docket_number": "0:26-cv-00749",
+          "executive_action": "Whipple Federal Building Detention Conditions",
+          "status": "TRO Granted",
+          "battle_id": 396
+        }
+      ]
+    },
+    "David S. Doty": {
+      "normalized_name": "David S. Doty",
+      "nc_cases": [
+        {
+          "row_index": 54,
+          "case_name": "Jose V. v. Easterwood, et al.",
+          "case_no": "26-CV-597",
+          "jurisdiction": "District of Minnesota",
+          "date": "1/28/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge David S. Doty"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Ronald Reagan"
+    },
+    "Julia E. Kobick": {
+      "normalized_name": "Julia E. Kobick",
+      "nc_cases": [
+        {
+          "row_index": 61,
+          "case_name": "Carneiro v. Moniz",
+          "case_no": "1:26-cv-10267",
+          "jurisdiction": "District of Massachusetts",
+          "date": "1) 1/22/2026 ; 2) 1/30/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Julia E. Kobick"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "Greater Boston Latino Network v. Noem",
+          "docket_number": "1:26-cv-10472",
+          "executive_action": "ICE Administrative Warrant",
+          "status": "Suit Filed",
+          "battle_id": 398
+        }
+      ]
+    },
+    "Stephen R. Bough": {
+      "normalized_name": "Stephen R. Bough",
+      "nc_cases": [
+        {
+          "row_index": 63,
+          "case_name": "Marco Q. v. Noem, et al.",
+          "case_no": "26-CV-663",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/2/2026",
+          "violation_types": "Failure to Timely Release, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "Visiting",
+          "raw_judge_name": "U.S. Visiting District Judge Stephen R. Bough of the Western District of Missouri"
+        },
+        {
+          "row_index": 187,
+          "case_name": "Carlos A. G. v. Bondi, et al.",
+          "case_no": "26-CV-00580",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Order, Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "Visiting",
+          "raw_judge_name": "U.S. Visiting District Judge Stephen R. Bough of the Western District of Missouri"
+        },
+        {
+          "row_index": 305,
+          "case_name": "Hercules Serrano v. Easterwood",
+          "case_no": "0:26-cv-00595",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/6/2026",
+          "violation_types": "Failure to Return Property; Failure to File",
+          "egregious": "",
+          "judge_type": "Visiting",
+          "raw_judge_name": "U.S. Visiting District Judge Stephen R. Bough of the Western District of Missouri"
+        },
+        {
+          "row_index": 312,
+          "case_name": "Jacome Ulloa v. Noem",
+          "case_no": "0:26-cv-00862",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/4/2026 ; 2) 2/5/2026 ; 3) 2/6/2026",
+          "violation_types": "Failure to Timely Release; Failure to File; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "Visiting",
+          "raw_judge_name": "U.S. Visiting District Judge Stephen R. Bough of the Western District of Missouri"
+        },
+        {
+          "row_index": 322,
+          "case_name": "Pallo Freire v. Lyons",
+          "case_no": "0:26-cv-00780",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/5/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Visiting",
+          "raw_judge_name": "U.S. Visiting District Judge Stephen R. Bough of the Western District of Missouri"
+        },
+        {
+          "row_index": 333,
+          "case_name": "Arevalo Seijas v. Bondi",
+          "case_no": "0:26-cv-00902",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/9/2026 ; 2) 2/10/2026 ; 3) 2/20/2026",
+          "violation_types": "Failure to Timely Release; Misrepresentation to the Court; Failure to Coordinate with Counsel; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "Visiting",
+          "raw_judge_name": "U.S. Visiting District Judge Stephen R. Bough of the Western District of Missouri"
+        }
+      ],
+      "nc_case_count": 6,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Leo I. Brisbois": {
+      "normalized_name": "Leo I. Brisbois",
+      "nc_cases": [
+        {
+          "row_index": 65,
+          "case_name": "Sanchez Lopez v. Bondi",
+          "case_no": "0:26-cv-00797",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/3/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge Leo I. Brisbois"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "John F. Docherty": {
+      "normalized_name": "John F. Docherty",
+      "nc_cases": [
+        {
+          "row_index": 66,
+          "case_name": "Leon-Silvera v. Bondi",
+          "case_no": "0:26-cv-00847",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/3/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge John F. Docherty"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "John M. Gerrard": {
+      "normalized_name": "John M. Gerrard",
+      "nc_cases": [
+        {
+          "row_index": 67,
+          "case_name": "Palta v. Bondi",
+          "case_no": "0:26-cv-00928",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/3/26",
+          "violation_types": "Transfer Despite Order, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 184,
+          "case_name": "Maria V.H., et al., v. Bondi, et al.",
+          "case_no": "26-CV-546",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 307,
+          "case_name": "Toalombo Chaglla v. Bondi",
+          "case_no": "0:26-cv-00804",
+          "jurisdiction": "District of Minnesota",
+          "date": "1)1/30/2026 ; 2) 1/31/2026",
+          "violation_types": "Failure to Return Detainee; Failure to File",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 315,
+          "case_name": "Perez Marinero v. Bondi",
+          "case_no": "0:26-cv-01007",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/12/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 320,
+          "case_name": "Yuquilema Lumi v. Bondi",
+          "case_no": "0:26-cv-01152",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/10/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 321,
+          "case_name": "Duarte Salazar v. Noem",
+          "case_no": "0:26-cv-01040",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/14/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 341,
+          "case_name": "Garza Zacarias v. Bondi",
+          "case_no": "0:26-cv-01259",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Failure to File, Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge John M. Gerrard"
+        },
+        {
+          "row_index": 354,
+          "case_name": "Chimbo Viracucha v. Noem",
+          "case_no": "0:26-cv-00831",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/13/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge John M. Gerrard"
+        }
+      ],
+      "nc_case_count": 8,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Nusrat J. Choudhury": {
+      "normalized_name": "Nusrat J. Choudhury",
+      "nc_cases": [
+        {
+          "row_index": 68,
+          "case_name": "Concha v. Lyons",
+          "case_no": "25-CV-6695",
+          "jurisdiction": "Eastern District of New York",
+          "date": "2/4/2026",
+          "violation_types": "Transfer Despite Order, Failure to Produce Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nusrat J. Choudhury"
+        },
+        {
+          "row_index": 139,
+          "case_name": "Cadena-Gallegos v. Bondi",
+          "case_no": "2:26-cv-00844",
+          "jurisdiction": "Eastern District of New York",
+          "date": "2/15/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nusrat J. Choudhury"
+        },
+        {
+          "row_index": 289,
+          "case_name": "Castano Rendon v. Bondi",
+          "case_no": "2:26-cv-01361",
+          "jurisdiction": "Eastern District of New York",
+          "date": "3/11/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nusrat J. Choudhury"
+        },
+        {
+          "row_index": 290,
+          "case_name": "Ilma Zapata v. Genalo",
+          "case_no": "2:26-cv-01365",
+          "jurisdiction": "Eastern District of New York",
+          "date": "3/11/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Nusrat J. Choudhury"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Michael E. Farbiarz": {
+      "normalized_name": "Michael E. Farbiarz",
+      "nc_cases": [
+        {
+          "row_index": 70,
+          "case_name": "Kumar v. Soto",
+          "case_no": "",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/5/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael E. Farbiarz"
+        },
+        {
+          "row_index": 84,
+          "case_name": "Guamug Pacheco v. Soto",
+          "case_no": "26-CV-00024",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael E. Farbiarz"
+        },
+        {
+          "row_index": 111,
+          "case_name": "Mocada de la Hoz v. Noem",
+          "case_no": "2:26-cv-01016",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael E. Farbiarz"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "Khalil v. Joyce",
+          "docket_number": "2:25-cv-01963",
+          "executive_action": "Deportation of Mahmoud Khalil",
+          "status": "PI Appealed",
+          "battle_id": 113
+        }
+      ]
+    },
+    "Jill N. Parrish": {
+      "normalized_name": "Jill N. Parrish",
+      "nc_cases": [
+        {
+          "row_index": 71,
+          "case_name": "Reyes Vasquez v. Noem",
+          "case_no": "2:25-cv-01146",
+          "jurisdiction": "District of Utah",
+          "date": "2/5/2026",
+          "violation_types": "Removal Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jill N. Parrish"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Yvonne Gonzalez Rogers": {
+      "normalized_name": "Yvonne Gonzalez Rogers",
+      "nc_cases": [
+        {
+          "row_index": 75,
+          "case_name": "Jimenez Garcia v. Kaiser",
+          "case_no": "4:25-cv-06916",
+          "jurisdiction": "Northern District of California",
+          "date": "2/10/2026",
+          "violation_types": "MIsc",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Yvonne Gonzalez Rogers"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Stephen H. Locher": {
+      "normalized_name": "Stephen H. Locher",
+      "nc_cases": [
+        {
+          "row_index": 76,
+          "case_name": "Curco Ayala v. Bondi",
+          "case_no": "0:26-cv-00960",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/10/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 304,
+          "case_name": "Gonzalez v. Noem",
+          "case_no": "0:26-cv-00759",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/30/2026 ; 2) 2/9/2026",
+          "violation_types": "Failure to file; Transfer Despite Order; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 316,
+          "case_name": "Humberto Lema Salazar v. Bondi",
+          "case_no": "0:26-cv-00736",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/6/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 317,
+          "case_name": "Guaman Pinguil v. Bondi",
+          "case_no": "0:26-cv-00734",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/9/2026",
+          "violation_types": "Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 324,
+          "case_name": "Bonilla Sosa v. Bondi",
+          "case_no": "0:26-cv-00572",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 1/30/2025 ; 2) 2/5/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 329,
+          "case_name": "Cruz Melchor v. Bondi",
+          "case_no": "0:26-cv-01234",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/3/26",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 330,
+          "case_name": "Shamb Cruz v. Bondi",
+          "case_no": "0:26-cv-01114",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/17/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 332,
+          "case_name": "Suatunce Sillo v. Lyons",
+          "case_no": "0:26-cv-00599",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/12/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 336,
+          "case_name": "Villa Santana v. Bondi",
+          "case_no": "0:26-cv-01117",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/17/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 337,
+          "case_name": "Mohamoud Samatar v. Easterwood",
+          "case_no": "0:26-cv-00724",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/18/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        },
+        {
+          "row_index": 340,
+          "case_name": "Ecal v. Bondi",
+          "case_no": "0:26-cv-01237",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/3/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Stephen H. Locher"
+        }
+      ],
+      "nc_case_count": 11,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Charlotte N. Sweeney": {
+      "normalized_name": "Charlotte N. Sweeney",
+      "nc_cases": [
+        {
+          "row_index": 77,
+          "case_name": "Servin Estevez v. Baltazar",
+          "case_no": "1:26-cv-00266",
+          "jurisdiction": "District of Colorado",
+          "date": "2/10/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Charlotte N. Sweeney"
+        },
+        {
+          "row_index": 365,
+          "case_name": "Chennah v. Baltazar",
+          "case_no": "1:26-cv-00112",
+          "jurisdiction": "District of Colorado",
+          "date": "1/20/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Charlotte N. Sweeney"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "D.B.U. v. Trump",
+          "docket_number": "1:25-cv-01163",
+          "executive_action": "Alien Enemies Act Deportation",
+          "status": "PI Appealed",
+          "battle_id": 170
+        }
+      ]
+    },
+    "Kenneth J. Gonzales": {
+      "normalized_name": "Kenneth J. Gonzales",
+      "nc_cases": [
+        {
+          "row_index": 78,
+          "case_name": "Capdevila Manzano v. Otero County Processing Center",
+          "case_no": "2:26-cv-00133",
+          "jurisdiction": "District of New Mexico",
+          "date": "2/10/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Kenneth J. Gonzales"
+        },
+        {
+          "row_index": 357,
+          "case_name": "Delfino Gainza v. Noem",
+          "case_no": "2:26-cv-00028",
+          "jurisdiction": "District of New Mexico",
+          "date": "2/23/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "Chief U.S. District Judge Kenneth J. Gonzales"
+        },
+        {
+          "row_index": 360,
+          "case_name": "Donouvo v. Bondi",
+          "case_no": "1:26-cv-00192",
+          "jurisdiction": "District of New Mexico",
+          "date": "1) 3/8/2026 ; 2) 3/19/2026",
+          "violation_types": "Failure to File, Failure to Provide Bond Hearing, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Chief",
+          "raw_judge_name": "Chief U.S. District Judge Kenneth J. Gonzales"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Thomas E. Johnston": {
+      "normalized_name": "Thomas E. Johnston",
+      "nc_cases": [
+        {
+          "row_index": 80,
+          "case_name": "Serna Zareta v. Mason",
+          "case_no": "2:26-cv-00069",
+          "jurisdiction": "Southern District of West Virginia",
+          "date": "1) 2/11/2026 ; 2) 2/18/2026",
+          "violation_types": "Failure to Return Detainee, Failure to File, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Thomas E. Johnston"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "George W. Bush"
+    },
+    "Margaret Strickland": {
+      "normalized_name": "Margaret Strickland",
+      "nc_cases": [
+        {
+          "row_index": 82,
+          "case_name": "Singh v. Shaw",
+          "case_no": "1:26-cv-00154",
+          "jurisdiction": "District of New Mexico",
+          "date": "2/12/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Margaret Strickland"
+        },
+        {
+          "row_index": 366,
+          "case_name": "Singh v. Carnes",
+          "case_no": "1:26-cv-00210",
+          "jurisdiction": "District of New Mexico",
+          "date": "2/17/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Margaret Strickland"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Susan Davis Wingenton": {
+      "normalized_name": "Susan Davis Wingenton",
+      "nc_cases": [
+        {
+          "row_index": 83,
+          "case_name": "Bastidas Cano v. Soto",
+          "case_no": "25-CV-18008",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Davis Wingenton"
+        },
+        {
+          "row_index": 95,
+          "case_name": "Gaviria Moreno v. Soto",
+          "case_no": "25-CV-18657",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Davis Wingenton"
+        },
+        {
+          "row_index": 119,
+          "case_name": "Medias Pantle v. Bondi",
+          "case_no": "2:26-cv-00390",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Davis Wingenton"
+        },
+        {
+          "row_index": 120,
+          "case_name": "Anastacio v. Soto",
+          "case_no": "2:26-cv-00935",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Susan Davis Wingenton"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false
+    },
+    "Karen M. Williams": {
+      "normalized_name": "Karen M. Williams",
+      "nc_cases": [
+        {
+          "row_index": 85,
+          "case_name": "Campos Munoz v. Rokosky",
+          "case_no": "25-CV-18720",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Karen M. Williams"
+        },
+        {
+          "row_index": 118,
+          "case_name": "Balla Diop v. Field Office Director of New Jersey Immigration and Customs Enforcement",
+          "case_no": "1:25-cv-16852",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Karen M. Williams"
+        },
+        {
+          "row_index": 127,
+          "case_name": "Kuchera v. Plumeri",
+          "case_no": "1:25-cv-00085",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Karen M. Williams"
+        },
+        {
+          "row_index": 328,
+          "case_name": "Perez Sierra v. Margolin",
+          "case_no": "1:25-cv-18829",
+          "jurisdiction": "District of New Jersey",
+          "date": "3/23/26",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Karen M. Williams"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Edward S. Kiel": {
+      "normalized_name": "Edward S. Kiel",
+      "nc_cases": [
+        {
+          "row_index": 87,
+          "case_name": "Geincharles v. Rokosky",
+          "case_no": "26-CV-00150",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Edward S. Kiel"
+        },
+        {
+          "row_index": 93,
+          "case_name": "Chalco Yunga v. Cabezas",
+          "case_no": "25-CV-18147",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Edward S. Kiel"
+        },
+        {
+          "row_index": 99,
+          "case_name": "Jiatz Cun v. Rokosky",
+          "case_no": "26-CV-01248",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Edward S. Kiel"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Madeline Cox Arleo": {
+      "normalized_name": "Madeline Cox Arleo",
+      "nc_cases": [
+        {
+          "row_index": 88,
+          "case_name": "Aguyayo Bravo v. Soto",
+          "case_no": "25-CV-18605",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Madeline Cox Arleo"
+        },
+        {
+          "row_index": 102,
+          "case_name": "Corona v. Executive Office for Immigration Review",
+          "case_no": "2:25-cv-17801",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Madeline Cox Arleo"
+        },
+        {
+          "row_index": 103,
+          "case_name": "Jacobo Chitay v. Noem",
+          "case_no": "2:25-cv-18253",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Madeline Cox Arleo"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Renee M. Bumb": {
+      "normalized_name": "Renee M. Bumb",
+      "nc_cases": [
+        {
+          "row_index": 89,
+          "case_name": "Marca Lema v. Soto",
+          "case_no": "25-CV-17098",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Renee M. Bumb"
+        },
+        {
+          "row_index": 94,
+          "case_name": "Torres v. Soto",
+          "case_no": "25-CV-18578",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Renee Marie Bumb"
+        },
+        {
+          "row_index": 101,
+          "case_name": "Gu v. Almodovar",
+          "case_no": "25-cv-17746",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Renee Marie Bumb"
+        },
+        {
+          "row_index": 104,
+          "case_name": "Muralles v. Rokosky",
+          "case_no": "25-cv-18208",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Renee Marie Bumb"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false,
+      "appointed_by": "George W. Bush"
+    },
+    "Claire Cecchi": {
+      "normalized_name": "Claire Cecchi",
+      "nc_cases": [
+        {
+          "row_index": 90,
+          "case_name": "Lopez-Capir v. Bondi",
+          "case_no": "25-CV-17385",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Claire Cecchi"
+        },
+        {
+          "row_index": 91,
+          "case_name": "Chen v. Almodovar",
+          "case_no": "25-CV-17823",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Claire Cecchi"
+        },
+        {
+          "row_index": 117,
+          "case_name": "Moran-Rodriguez v. Bondi",
+          "case_no": "2:25-cv-18786",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Removal/Deportation Despite Order",
+          "egregious": "X \"inadvertant removal\"?",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Claire Cecchi"
+        },
+        {
+          "row_index": 132,
+          "case_name": "Morocho Sancho v. Rokosky",
+          "case_no": "2:25-cv-18326",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Removal Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Claire Cecchi"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Christine P. O'Hearn": {
+      "normalized_name": "Christine P. O'Hearn",
+      "nc_cases": [
+        {
+          "row_index": 92,
+          "case_name": "Hernandez Maldonada v. Noem",
+          "case_no": "25-CV-17783",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 123,
+          "case_name": "Cruz Santos v. Baker",
+          "case_no": "1:25-cv-18959",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order, Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 124,
+          "case_name": "Wang v. Francis ",
+          "case_no": "1:25-cv-18053",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 125,
+          "case_name": "Morales Penaloza",
+          "case_no": "1:25-cv-18686",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 126,
+          "case_name": "Chintaman Pendse v. Warren Delaney Hall Detention Facility",
+          "case_no": "1:25-cv-19125",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 128,
+          "case_name": "Salto Salto v. Soto",
+          "case_no": "1:26-cv-00612",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 129,
+          "case_name": "Lucero Bueno v. Bondi",
+          "case_no": "1:26-cv-00857",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 130,
+          "case_name": "Avila Hernandez v. Bondi",
+          "case_no": "1:26-cv-01215",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 131,
+          "case_name": "Sanchez Iza v. Rokosky",
+          "case_no": "1:26-cv-01228",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 291,
+          "case_name": "Yanchapanta Quintuna v. Rokosky ",
+          "case_no": "1:26-cv-02424",
+          "jurisdiction": "District of New Jersey",
+          "date": "3/11/2026",
+          "violation_types": "Failure to File",
+          "egregious": "X #9",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        },
+        {
+          "row_index": 326,
+          "case_name": "Li v. Bondi",
+          "case_no": "1:25-cv-15764",
+          "jurisdiction": "District of New Jersey",
+          "date": "10/1/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O'Hearn"
+        }
+      ],
+      "nc_case_count": 11,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "Ireland v. Hegseth",
+          "docket_number": "1:25-cv-01918",
+          "executive_action": "Transgender Service Members Ban",
+          "status": "Dismissed by Plaintiffs",
+          "battle_id": 108
+        }
+      ]
+    },
+    "Michael A. Shipp": {
+      "normalized_name": "Michael A. Shipp",
+      "nc_cases": [
+        {
+          "row_index": 96,
+          "case_name": "Guerrero-Gaspar v. Bondi",
+          "case_no": "25-CV-19003",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael A. Shipp"
+        },
+        {
+          "row_index": 100,
+          "case_name": "Onuwa v. Bondi",
+          "case_no": "25-CV-15403",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Michael A. Shipp"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Zahid N. Quraishi": {
+      "normalized_name": "Zahid N. Quraishi",
+      "nc_cases": [
+        {
+          "row_index": 97,
+          "case_name": "Hernandez Diaz v. Bondi",
+          "case_no": "26-CV-00046",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Zahid Nisar Quraishi"
+        },
+        {
+          "row_index": 110,
+          "case_name": "Sagan v. Soto",
+          "case_no": "3:26-cv-00498",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S District Judge Zahid Nisar Quraishi"
+        },
+        {
+          "row_index": 157,
+          "case_name": "Cartagena v. Soto",
+          "case_no": "26-CV-1455",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Zahid N. Quraishi"
+        },
+        {
+          "row_index": 350,
+          "case_name": "Hernandez-Polanco v. Bondi",
+          "case_no": "3:26-cv-01283",
+          "jurisdiction": "District of New Jersey",
+          "date": "3/9/2026",
+          "violation_types": "Failure to Provide Bond Hearing, Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Zahid N. Quraishi"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Georgette Castner": {
+      "normalized_name": "Georgette Castner",
+      "nc_cases": [
+        {
+          "row_index": 98,
+          "case_name": "Martinez Carrada v. Soto",
+          "case_no": "26-CV-00508",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Georgette Castner"
+        },
+        {
+          "row_index": 108,
+          "case_name": "Chen v. Soto",
+          "case_no": "25-cv-17198",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Georgette Castner"
+        },
+        {
+          "row_index": 113,
+          "case_name": "Merino Lopez v. Bondi",
+          "case_no": "3:26-cv-01243",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Georgette Castner"
+        },
+        {
+          "row_index": 122,
+          "case_name": "Castillo Corea v. Bondi",
+          "case_no": "3:25-cv-18481",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Georgette Castner"
+        }
+      ],
+      "nc_case_count": 4,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "United States v. New Jersey",
+          "docket_number": "3:26-cv-01770",
+          "executive_action": "Challenge to State Law",
+          "status": "Suit Filed",
+          "battle_id": 34
+        }
+      ]
+    },
+    "Robert Kirsch": {
+      "normalized_name": "Robert Kirsch",
+      "nc_cases": [
+        {
+          "row_index": 105,
+          "case_name": "Coto Sac v. Doe",
+          "case_no": "3:25-cv-18244",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Robert Kirsch"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Jamel K Semper": {
+      "normalized_name": "Jamel K Semper",
+      "nc_cases": [
+        {
+          "row_index": 106,
+          "case_name": "Penaloza Penalosa v. Bondi",
+          "case_no": "2:25-cv-18843",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jamel K Semper"
+        },
+        {
+          "row_index": 109,
+          "case_name": "Ponce Garcia v. Bondi",
+          "case_no": "2:26-cv-00200",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jamel K Semper"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Esther Salas": {
+      "normalized_name": "Esther Salas",
+      "nc_cases": [
+        {
+          "row_index": 112,
+          "case_name": "Allabouch v. Noem",
+          "case_no": "2:26-cv-01195",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Esther Salas"
+        },
+        {
+          "row_index": 115,
+          "case_name": "Jarro-Yari v. Soto",
+          "case_no": "2:26-cv-01090",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Esther Salas"
+        },
+        {
+          "row_index": 116,
+          "case_name": "Obregon-Juaregui v. Noem",
+          "case_no": "2:26-cv-01035",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/13/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Esther Salas"
+        }
+      ],
+      "nc_case_count": 3,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Richard G. Stearns": {
+      "normalized_name": "Richard G. Stearns",
+      "nc_cases": [
+        {
+          "row_index": 133,
+          "case_name": "Lopez Belloza v. Hyde",
+          "case_no": "1:25-cv-13499",
+          "jurisdiction": "District of Massachusetts",
+          "date": "2/13/2026",
+          "violation_types": "Removal Despite Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Richard G. Stearns"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Bill Clinton",
+      "lit_case_count": 3,
+      "lit_cases": [
+        {
+          "case_name": "Haitian Americans United, Inc. v. Trump",
+          "docket_number": "1:25-cv-10498",
+          "executive_action": "TPS Cancellation",
+          "status": "Stay Found as Moot",
+          "battle_id": 80
+        },
+        {
+          "case_name": "Washington v. FEMA",
+          "docket_number": "1:25-cv-12006",
+          "executive_action": "Federal Grant Terminations",
+          "status": "PI Granted",
+          "battle_id": 281
+        },
+        {
+          "case_name": "Jean A. v. Noem",
+          "docket_number": "3:26-cv-30031",
+          "executive_action": "Arrest and Detention of Refugees",
+          "status": "Suit Filed",
+          "battle_id": 408
+        }
+      ]
+    },
+    "Myong J. Joun": {
+      "normalized_name": "Myong J. Joun",
+      "nc_cases": [
+        {
+          "row_index": 134,
+          "case_name": "Gonzalez Perez v. Hyde",
+          "case_no": "1:26-cv-10440",
+          "jurisdiction": "District of Massachusetts",
+          "date": "2/13/2026",
+          "violation_types": "Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Myong J. Joun"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 3,
+      "lit_cases": [
+        {
+          "case_name": "State of New York v. McMahon",
+          "docket_number": "1:25-cv-10601",
+          "executive_action": "Department of Education Dismantling",
+          "status": "PI Vacated",
+          "battle_id": 95
+        },
+        {
+          "case_name": "Somerville Public Schools v. Trump",
+          "docket_number": "1:25-cv-10677",
+          "executive_action": "Department of Education Dismantling",
+          "status": "Consolidated with 1:25-cv-10677",
+          "battle_id": 122
+        },
+        {
+          "case_name": "National Council of Nonprofits v. McMahon",
+          "docket_number": "1:25-cv-13242",
+          "executive_action": "New Public Service Loan Forgiveness Rule",
+          "status": "Suit Filed",
+          "battle_id": 347
+        }
+      ]
+    },
+    "Donovan W. Frank": {
+      "normalized_name": "Donovan W. Frank",
+      "nc_cases": [
+        {
+          "row_index": 143,
+          "case_name": "Herdosia Rodriguez v. Bondi",
+          "case_no": "0:26-cv-01216",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/19/2026",
+          "violation_types": "Failure to Return Property, Imposed Conditions on Release in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 144,
+          "case_name": "Ramirez Isiordia v. Bondi",
+          "case_no": "0:26-cv-00619",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/19/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Court Order, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 171,
+          "case_name": "Alberto C.M. v. Noem, et al.",
+          "case_no": "26-CV-0380",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/28/2026",
+          "violation_types": "Failure to File",
+          "egregious": "X \" Following a CT scan, doctors at Fairview diagnosed Petitioner with the following life-threatening injuries: skull fractures to the right frontal, temporal, parietal, occipital, sphenoid, and orbital bones and zygomatic arch and left temporal bone; and epidural, subdural, subarachnoid, intracerebral, and intraparenchymal hemorrhages. Given the severe nature of his injuries, Petitioner was transferred to Hennepin County Medical Center (\u201cHCMC\u201d) for enhanced care. Although Petitioner was initially able to communicate with hospital staff, his condition has declined, and he is now experiencing difficulty communicating verbally. \" (ECF #9)",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 194,
+          "case_name": "Victor S.M. v. Noem et al.",
+          "case_no": "26-CV-400",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Hold Bond Hearing, Failure to Timely Release, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 202,
+          "case_name": "Franklin I.G.R. v. Bondi et al.",
+          "case_no": "26-CV-567",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release, Imposed Conditions on Release in Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 203,
+          "case_name": "Claudio E.A.S. v. Bondi et al.",
+          "case_no": "26-CV-583",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 221,
+          "case_name": "Jose G.A.M. v. Bondi et al.",
+          "case_no": "26-CV-743",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Timely Release, Failure to File, Imposed Conditions on Release In Violation of Court Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 233,
+          "case_name": "Segundo G.U.O. v. Bondi et al.",
+          "case_no": "26-CV-830",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Court Order, Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 235,
+          "case_name": "Francisco R.C. v. Bondi et al.",
+          "case_no": "26-CV-833",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 260,
+          "case_name": "Jorge H.C.F. v. Bondi et al",
+          "case_no": "26-CV-1111",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/26/2026",
+          "violation_types": "Failure to Return Detainee",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 284,
+          "case_name": "Montealegre Sanchez v. Bondi",
+          "case_no": "0:26-cv-01406",
+          "jurisdiction": "District of Minnesota",
+          "date": "3/4/2026",
+          "violation_types": "Imposed Conditions on Release in Violation of Court Order, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 346,
+          "case_name": "Rea Lumbi v. Bondi",
+          "case_no": "0:26-cv-01049",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/9/2026",
+          "violation_types": "Transfer Despite Order; Failure to Produce Evidence",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        },
+        {
+          "row_index": 355,
+          "case_name": "Sosoranga Paqui v. Bondi",
+          "case_no": "0:26-cv-01449",
+          "jurisdiction": "District of Minnesota",
+          "date": "2/20/2026",
+          "violation_types": "Imposed Conditions in Violation of Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Donovan W. Frank"
+        }
+      ],
+      "nc_case_count": 13,
+      "in_litigation_tracker": false,
+      "appointed_by": "Bill Clinton"
+    },
+    "Christine P. O\u2019Hearn": {
+      "normalized_name": "Christine P. O\u2019Hearn",
+      "nc_cases": [
+        {
+          "row_index": 146,
+          "case_name": "Singh v. Tsoukaris",
+          "case_no": "26-CV-1531",
+          "jurisdiction": "District of New Jersey",
+          "date": "2/20/2026",
+          "violation_types": "Misrepresentation to the Court",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Christine P. O\u2019Hearn"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Jacqueline Becerra": {
+      "normalized_name": "Jacqueline Becerra",
+      "nc_cases": [
+        {
+          "row_index": 151,
+          "case_name": "Rodriguez, Adriel v. Krome North Service Processing Center (Collier County)",
+          "case_no": "2:26-cv-00648",
+          "jurisdiction": "Middle District of Florida",
+          "date": "2/25/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Jacqueline Becerra"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Ann D. Montgomery": {
+      "normalized_name": "Ann D. Montgomery",
+      "nc_cases": [
+        {
+          "row_index": 186,
+          "case_name": "Guled O. v. Noem, et al.",
+          "case_no": "26-CV-0575",
+          "jurisdiction": "District of Minnesota",
+          "date": "1) 2/3/2026 ; 2) 2/26/2026",
+          "violation_types": "Transfer Despite Court Order, Failure to Timely Release, Failure to Return Detainee, Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Ann D. Montgomery"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Bill Clinton"
+    },
+    "Kyle C. Dudek": {
+      "normalized_name": "Kyle C. Dudek",
+      "nc_cases": [
+        {
+          "row_index": 288,
+          "case_name": "Ferreira de Jesus v. Warden of Krom ICE Processing Center (Colllier County)",
+          "case_no": "2:26-cv-00441",
+          "jurisdiction": "Middle District of Florida",
+          "date": "3/6/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Kyle C. Dudek"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Donald Trump"
+    },
+    "William P. Johnson": {
+      "normalized_name": "William P. Johnson",
+      "nc_cases": [
+        {
+          "row_index": 292,
+          "case_name": "Navarro Najera v. Castro",
+          "case_no": "2:25-cv-01173",
+          "jurisdiction": "District of New Mexico",
+          "date": "3/11/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge William P. Johnson"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "George W. Bush"
+    },
+    "Diana Saldana": {
+      "normalized_name": "Diana Saldana",
+      "nc_cases": [
+        {
+          "row_index": 293,
+          "case_name": "Gaytan Sanchez v. Perez",
+          "case_no": "5:26-cv-00250",
+          "jurisdiction": "Southern District of Texas",
+          "date": "3/13/26",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Diana Salda\u00f1a"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Valerie Baker Fairbank": {
+      "normalized_name": "Valerie Baker Fairbank",
+      "nc_cases": [
+        {
+          "row_index": 294,
+          "case_name": "Julio Cesar Salgado Rivera v. Pamela Bondi",
+          "case_no": "5:26-cv-01169",
+          "jurisdiction": "Central District of California",
+          "date": "3/17/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Valerie Baker Fairbank"
+        },
+        {
+          "row_index": 353,
+          "case_name": "Robert Soghomonyan v. Fereti Semaia",
+          "case_no": "5:26-cv-00503",
+          "jurisdiction": "Central District of California",
+          "date": "3/11/2026",
+          "violation_types": "Failure to Timely Release; Failure to Provide Bond Hearing",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "U.S. Senior District Judge Valerie Baker Fairbank"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "George W. Bush"
+    },
+    "James E. Simmons Jr.": {
+      "normalized_name": "James E. Simmons Jr.",
+      "nc_cases": [
+        {
+          "row_index": 295,
+          "case_name": "Murillo-Ortiz v. LaRose",
+          "case_no": "3:26-cv-01469",
+          "jurisdiction": "Southern District of California",
+          "date": "3/23/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge James E. Simmons Jr."
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Robert S. Huie": {
+      "normalized_name": "Robert S. Huie",
+      "nc_cases": [
+        {
+          "row_index": 297,
+          "case_name": "Gir v. Warden of Imperial Regional Detention Facility Calexico",
+          "case_no": "3:26-cv-01567",
+          "jurisdiction": "Southern District of California",
+          "date": "3/24/2026",
+          "violation_types": "Failure to File Update/Report; Failure to Respond/Answer",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Robert S. Huie"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Fred W. Slaughter": {
+      "normalized_name": "Fred W. Slaughter",
+      "nc_cases": [
+        {
+          "row_index": 352,
+          "case_name": "Francisco Eduardo Ixtos Ajqui v. Kristi Noem",
+          "case_no": "5:25-cv-02976",
+          "jurisdiction": "Central District of California",
+          "date": "11/26/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Fred W. Slaughter"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Indira Talwani": {
+      "normalized_name": "Indira Talwani",
+      "nc_cases": [
+        {
+          "row_index": 356,
+          "case_name": "Lopez Lopez v. Hyde",
+          "case_no": "1:25-cv-12725",
+          "jurisdiction": "District of Massachusetts",
+          "date": "10/3/2026",
+          "violation_types": "Transfer Despite Order",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Indira Talwani"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Barack Obama",
+      "lit_case_count": 5,
+      "lit_cases": [
+        {
+          "case_name": "Doe v. Noem",
+          "docket_number": "1:25-cv-10495",
+          "executive_action": "Securing Our Borders EO",
+          "status": "PI Granted",
+          "battle_id": 78
+        },
+        {
+          "case_name": "New Jersey v. Office of Management and Budget",
+          "docket_number": "1:25-cv-11816",
+          "executive_action": "Federal Grant Terminations",
+          "status": "Suit Filed",
+          "battle_id": 274
+        },
+        {
+          "case_name": "Community Economic Development Center of Southeastern Massachusetts v. Bessent",
+          "docket_number": "1:25-cv-12822",
+          "executive_action": "IRS and SSA Sharing Data with ICE",
+          "status": "Suit Filed",
+          "battle_id": 316
+        },
+        {
+          "case_name": "Massachusetts v. U.S. Department of Agriculture",
+          "docket_number": "1:25-cv-13165",
+          "executive_action": "SNAP Benefits Suspension",
+          "status": "TRO Granted",
+          "battle_id": 343
+        },
+        {
+          "case_name": "League of Women Voters of Massachusetts v. Trump",
+          "docket_number": "1:26-cv-11549",
+          "executive_action": "Election Integrity Executive Order",
+          "status": "Suit Filed",
+          "battle_id": 424
+        }
+      ]
+    },
+    "John E. Steele": {
+      "normalized_name": "John E. Steele",
+      "nc_cases": [
+        {
+          "row_index": 358,
+          "case_name": "Bello Morales v. Miami Krome Immigration Court",
+          "case_no": "2:26-cv-00235",
+          "jurisdiction": "Middle District of Florida",
+          "date": "3/16/2026",
+          "violation_types": "Failure to Provide Bond Hearing; Failure to File",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "Senior U.S. District Judge John E. Steele"
+        },
+        {
+          "row_index": 361,
+          "case_name": "Lopez Martinez v. Hardin (Glades County)",
+          "case_no": "2:25-cv-01229",
+          "jurisdiction": "Middle District of Florida",
+          "date": "3/1/2026",
+          "violation_types": "Failure to File, Failure to Provide Bond Hearing, Failure to Timely Release",
+          "egregious": "",
+          "judge_type": "Senior",
+          "raw_judge_name": "Senior U.S. District Judge John E. Steele"
+        }
+      ],
+      "nc_case_count": 2,
+      "in_litigation_tracker": false,
+      "appointed_by": "Bill Clinton"
+    },
+    "John F. Robbenhaar": {
+      "normalized_name": "John F. Robbenhaar",
+      "nc_cases": [
+        {
+          "row_index": 359,
+          "case_name": "Navarro Rodriguez v. Castro",
+          "case_no": "2:25-cv-01149",
+          "jurisdiction": "District of New Mexico",
+          "date": "1/16/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge John F. Robbenhaar"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Araceli Martinez-Olguin": {
+      "normalized_name": "Araceli Martinez-Olguin",
+      "nc_cases": [
+        {
+          "row_index": 362,
+          "case_name": "A.F.A.M. v. Albarran",
+          "case_no": "3:25-cv-10492",
+          "jurisdiction": "Northern District of California",
+          "date": "12/12/2025",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Araceli Mart\u00ednez-Olgu\u00edn"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": true,
+      "appointed_by": "Joe Biden",
+      "lit_case_count": 1,
+      "lit_cases": [
+        {
+          "case_name": "Perrone v. Rollins",
+          "docket_number": "3:25-cv-09508",
+          "executive_action": "SNAP Benefits Suspension",
+          "status": "Dismissed by Plaintiffs",
+          "battle_id": 350
+        }
+      ]
+    },
+    "Paul G. Byron": {
+      "normalized_name": "Paul G. Byron",
+      "nc_cases": [
+        {
+          "row_index": 364,
+          "case_name": "Izaguirre Cardenas v. Mina",
+          "case_no": "6:25-cv-02337",
+          "jurisdiction": "Middle District of Florida",
+          "date": "1/13/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Paul G. Byron"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Barack Obama"
+    },
+    "Matthew L. Garcia": {
+      "normalized_name": "Matthew L. Garcia",
+      "nc_cases": [
+        {
+          "row_index": 367,
+          "case_name": "Alvillar Quintana v. Noem",
+          "case_no": "2:26-cv-00141",
+          "jurisdiction": "District of New Mexico",
+          "date": "2/9/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Judge Matthew L. Garcia"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "Joe Biden"
+    },
+    "Kathryn Starnella": {
+      "normalized_name": "Kathryn Starnella",
+      "nc_cases": [
+        {
+          "row_index": 368,
+          "case_name": "Diallo v. Baltazar",
+          "case_no": "1:25-cv-03548",
+          "jurisdiction": "District of Colorado",
+          "date": "1/19/2026",
+          "violation_types": "Failure to File",
+          "egregious": "",
+          "judge_type": "Magistrate",
+          "raw_judge_name": "U.S. Magistrate Judge Kathryn Starnella"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false
+    },
+    "Kathleen Cardone": {
+      "normalized_name": "Kathleen Cardone",
+      "nc_cases": [
+        {
+          "row_index": 369,
+          "case_name": "Arnao Linares v. Warden",
+          "case_no": "3:26-cv-00340",
+          "jurisdiction": "Western District of Texas",
+          "date": "3/6/2026",
+          "violation_types": "Imposed Conditions in Violation of Order; Failure to Return Property",
+          "egregious": "",
+          "judge_type": "District",
+          "raw_judge_name": "U.S. District Kathleen Cardone"
+        }
+      ],
+      "nc_case_count": 1,
+      "in_litigation_tracker": false,
+      "appointed_by": "George W. Bush"
+    }
+  },
+  "overlap_judges": [
+    "Laura M. Provinzino",
+    "John R. Tunheim",
+    "Nancy E. Brasel",
+    "Katherine M. Menendez",
+    "Christine P. O'Hearn",
+    "Eric C. Tostrud",
+    "Evelyn Padin",
+    "Georgette Castner",
+    "Michael E. Farbiarz",
+    "Charlotte N. Sweeney",
+    "Paula Xinis",
+    "James E. Boasberg",
+    "Brian E. Murphy",
+    "Sparkle L. Sooknanan",
+    "Theodore D. Chuang",
+    "Julia E. Kobick",
+    "Richard G. Stearns",
+    "Myong J. Joun",
+    "Indira Talwani",
+    "Araceli Martinez-Olguin"
+  ],
+  "nc_only_judges": [
+    "Jeffrey M. Bryan",
+    "Jerry W. Blackwell",
+    "Patrick J. Schiltz",
+    "Donovan W. Frank",
+    "Stephen H. Locher",
+    "Susan Richard Nelson",
+    "Daniel J. Calabretta",
+    "John M. Gerrard",
+    "Stephen R. Bough",
+    "Michael J. Davis",
+    "Nusrat J. Choudhury",
+    "Susan Davis Wingenton",
+    "Karen M. Williams",
+    "Renee M. Bumb",
+    "Claire Cecchi",
+    "Zahid N. Quraishi",
+    "Richard F. Boulware, II",
+    "Katharine S. Hayden",
+    "Kenneth J. Gonzales",
+    "Edward S. Kiel",
+    "Madeline Cox Arleo",
+    "Esther Salas",
+    "Gary R. Brown",
+    "Dale Alan Drozd",
+    "Margaret Strickland",
+    "Michael A. Shipp",
+    "Jamel K Semper",
+    "Valerie Baker Fairbank",
+    "John E. Steele",
+    "George A. O'Toole, Jr.",
+    "Sunil R. Harjani",
+    "David C. Guaderrama",
+    "Sheila K. Oberto",
+    "Keith P. Ellison",
+    "Dulce J. Foster",
+    "Elsa M. Bullard",
+    "David S. Doty",
+    "Leo I. Brisbois",
+    "John F. Docherty",
+    "Jill N. Parrish",
+    "Yvonne Gonzalez Rogers",
+    "Thomas E. Johnston",
+    "Robert Kirsch",
+    "Christine P. O\u2019Hearn",
+    "Jacqueline Becerra",
+    "Ann D. Montgomery",
+    "Kyle C. Dudek",
+    "William P. Johnson",
+    "Diana Saldana",
+    "James E. Simmons Jr.",
+    "Robert S. Huie",
+    "Fred W. Slaughter",
+    "John F. Robbenhaar",
+    "Paul G. Byron",
+    "Matthew L. Garcia",
+    "Kathryn Starnella",
+    "Kathleen Cardone"
+  ]
+}

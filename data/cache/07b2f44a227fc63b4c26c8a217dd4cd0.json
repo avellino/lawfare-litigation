@@ -1,0 +1,1669 @@
+{
+  "count": "https://www.courtlistener.com/api/rest/v4/people/?count=on&name_last=Garcia",
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+      "id": 15658,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17877/",
+          "id": 17877,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:10:27.994165-07:00",
+          "date_modified": "2022-07-05T10:10:27.994180-07:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2022-07-05",
+          "notes": "American Bench, 2021 ed."
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17878/",
+          "id": 17878,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:18:03.005533-07:00",
+          "date_modified": "2022-07-05T10:18:03.005553-07:00",
+          "url": "https://www.martindale.com/attorney/judge-patrick-michael-garcia-2385715/",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17879/",
+          "id": 17879,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:18:03.012669-07:00",
+          "date_modified": "2022-07-05T10:18:03.012688-07:00",
+          "url": "https://lawyers.justia.com/lawyer/judge-patrick-michael-garcia-253229",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17880/",
+          "id": 17880,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:18:03.013530-07:00",
+          "date_modified": "2022-07-05T10:18:03.013542-07:00",
+          "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=168572",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17881/",
+          "id": 17881,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:18:03.014462-07:00",
+          "date_modified": "2022-07-05T10:18:03.014478-07:00",
+          "url": "https://epcountyvotes.com/elected_officials/226",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17882/",
+          "id": 17882,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:18:03.015242-07:00",
+          "date_modified": "2022-07-05T10:18:03.015253-07:00",
+          "url": "https://ballotpedia.org/Patrick_Garcia",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17883/",
+          "id": 17883,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:18:03.018775-07:00",
+          "date_modified": "2022-07-05T10:18:03.018792-07:00",
+          "url": "",
+          "date_accessed": "2022-07-05",
+          "notes": "catmom"
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12039/",
+          "id": 12039,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5225/",
+            "id": 5225,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "San Francisco State University",
+            "ein": 931137247
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:10:27.964730-07:00",
+          "date_modified": "2022-07-05T10:10:27.964750-07:00",
+          "degree_level": "ba",
+          "degree_detail": "",
+          "degree_year": 1982
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/12040/",
+          "id": 12040,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/",
+            "id": 321,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "The University of Texas at Austin",
+            "ein": 746000203
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:10:27.985297-07:00",
+          "date_modified": "2022-07-05T10:10:27.985316-07:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 1985
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/50253/",
+        "https://www.courtlistener.com/api/rest/v4/positions/50254/",
+        "https://www.courtlistener.com/api/rest/v4/positions/50255/",
+        "https://www.courtlistener.com/api/rest/v4/positions/50256/",
+        "https://www.courtlistener.com/api/rest/v4/positions/50257/",
+        "https://www.courtlistener.com/api/rest/v4/positions/50258/",
+        "https://www.courtlistener.com/api/rest/v4/positions/50259/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8166/",
+          "id": 8166,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15658/",
+          "date_created": "2022-07-05T10:10:27.987889-07:00",
+          "date_modified": "2022-07-05T10:10:27.987906-07:00",
+          "political_party": "d",
+          "source": "o",
+          "date_start": null,
+          "date_granularity_start": "",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2022-07-05T10:10:27.869837-07:00",
+      "date_modified": "2022-07-05T10:18:02.978238-07:00",
+      "date_completed": "2022-07-05T10:08:24-07:00",
+      "fjc_id": null,
+      "slug": "patrick-michael-garcia",
+      "name_first": "Patrick",
+      "name_middle": "Michael",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1959-09-13",
+      "date_granularity_dob": "%Y-%m-%d",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15448/",
+      "id": 15448,
+      "race": [],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17872/",
+          "id": 17872,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15448/",
+          "date_created": "2022-07-05T10:04:14.703845-07:00",
+          "date_modified": "2022-07-05T10:04:14.703863-07:00",
+          "url": "https://trellis.law/judge/k.denisse.garcia",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17873/",
+          "id": 17873,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15448/",
+          "date_created": "2022-07-05T10:04:14.709733-07:00",
+          "date_modified": "2022-07-05T10:04:14.709750-07:00",
+          "url": "https://www.linkedin.com/in/dennise-garcia-51b93568/",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17874/",
+          "id": 17874,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15448/",
+          "date_created": "2022-07-05T10:04:14.710393-07:00",
+          "date_modified": "2022-07-05T10:04:14.710408-07:00",
+          "url": "https://www.txcourts.gov/5thcoa/about-the-court/justices/justice-dennise-garcia/",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17875/",
+          "id": 17875,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15448/",
+          "date_created": "2022-07-05T10:04:14.711030-07:00",
+          "date_modified": "2022-07-05T10:04:14.711046-07:00",
+          "url": "https://ballotpedia.org/Dennise_Garcia",
+          "date_accessed": "2022-07-05",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/17876/",
+          "id": 17876,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15448/",
+          "date_created": "2022-07-05T10:04:14.711664-07:00",
+          "date_modified": "2022-07-05T10:04:14.711679-07:00",
+          "url": "",
+          "date_accessed": "2022-07-05",
+          "notes": "catmom"
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [],
+      "political_affiliations": [],
+      "is_alias_of": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+      "date_created": "2022-06-15T15:46:46.752289-07:00",
+      "date_modified": "2022-07-05T10:04:14.692536-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "dennise-garcia",
+      "name_first": "Dennise",
+      "name_middle": "",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+      "id": 15447,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16924/",
+          "id": 16924,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.490302-07:00",
+          "date_modified": "2022-06-15T15:26:27.490314-07:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2022-06-15",
+          "notes": "American Bench, 2021 ed."
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16925/",
+          "id": 16925,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.499632-07:00",
+          "date_modified": "2022-06-15T15:26:27.499645-07:00",
+          "url": "https://www.txcourts.gov/5thcoa/about-the-court/justices/justice-dennise-garcia/#:~:text=Fifth%20Court%20of%20Appeals&text=Justice%20Dennise%20Garcia%20has%20been,of%20the%20303rd%20District%20Court.",
+          "date_accessed": "2022-06-15",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16926/",
+          "id": 16926,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.500769-07:00",
+          "date_modified": "2022-06-15T15:26:27.500780-07:00",
+          "url": "https://www.linkedin.com/in/dennise-garcia-51b93568/",
+          "date_accessed": "2022-06-15",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16927/",
+          "id": 16927,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.501846-07:00",
+          "date_modified": "2022-06-15T15:26:27.501856-07:00",
+          "url": "https://ballotpedia.org/Dennise_Garcia",
+          "date_accessed": "2022-06-15",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16928/",
+          "id": 16928,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.502890-07:00",
+          "date_modified": "2022-06-15T15:26:27.502901-07:00",
+          "url": "https://thsc.org/political-action/texas-judicial-wall-of-shame/judge-dennise-garcia/",
+          "date_accessed": "2022-06-15",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16929/",
+          "id": 16929,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.503942-07:00",
+          "date_modified": "2022-06-15T15:26:27.503953-07:00",
+          "url": "https://www.ballotready.org/tx/306501/dennise-garcia",
+          "date_accessed": "2022-06-15",
+          "notes": ""
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11740/",
+          "id": 11740,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/",
+            "id": 1481,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Southern Methodist University",
+            "ein": 750800689
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.475211-07:00",
+          "date_modified": "2022-06-15T15:26:27.475232-07:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 1993
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11741/",
+          "id": 11741,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/1481/",
+            "id": 1481,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Southern Methodist University",
+            "ein": 750800689
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.483438-07:00",
+          "date_modified": "2022-06-15T15:26:27.483455-07:00",
+          "degree_level": "ba",
+          "degree_detail": "Sociology, Political Science",
+          "degree_year": 1990
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/49423/",
+        "https://www.courtlistener.com/api/rest/v4/positions/49424/",
+        "https://www.courtlistener.com/api/rest/v4/positions/49425/",
+        "https://www.courtlistener.com/api/rest/v4/positions/49426/",
+        "https://www.courtlistener.com/api/rest/v4/positions/49427/",
+        "https://www.courtlistener.com/api/rest/v4/positions/49428/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/8036/",
+          "id": 8036,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15447/",
+          "date_created": "2022-06-15T15:26:27.485957-07:00",
+          "date_modified": "2022-06-15T15:26:27.485969-07:00",
+          "political_party": "d",
+          "source": "o",
+          "date_start": null,
+          "date_granularity_start": "",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2022-06-15T15:26:27.435317-07:00",
+      "date_modified": "2022-07-05T10:06:31.453957-07:00",
+      "date_completed": "2022-06-15T15:13:58-07:00",
+      "fjc_id": null,
+      "slug": "kathleene-dennise-garcia",
+      "name_first": "Kathleene",
+      "name_middle": "Dennise",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1968-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "f",
+      "religion": "pr",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+      "id": 15340,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16262/",
+          "id": 16262,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:17:00.405448-07:00",
+          "date_modified": "2022-05-20T14:17:00.405485-07:00",
+          "url": "https://www.linkedin.com/in/mario-garcia-4a53842a/",
+          "date_accessed": "2022-05-20",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16263/",
+          "id": 16263,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:17:00.435179-07:00",
+          "date_modified": "2022-05-20T14:17:00.435210-07:00",
+          "url": "https://storage.courtlistener.com/financial-disclosures/2020/Garcia-M.%20M.%2007.%20INS_Ini_SR_20.pdf",
+          "date_accessed": "2022-05-20",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16264/",
+          "id": 16264,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:19:44.162963-07:00",
+          "date_modified": "2022-05-20T14:19:44.162995-07:00",
+          "url": "https://www.bsu.edu/news/press-center/archives/2020/12/ball-state-grad-to-become-federal-judge",
+          "date_accessed": "2022-05-20",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16265/",
+          "id": 16265,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:19:44.185350-07:00",
+          "date_modified": "2022-05-20T14:19:44.185376-07:00",
+          "url": "https://www.indybar.org/?pg=IndyBarNews&blAction=showEntry&blogEntry=61172",
+          "date_accessed": "2022-05-20",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16266/",
+          "id": 16266,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:19:44.207462-07:00",
+          "date_modified": "2022-05-20T14:19:44.207491-07:00",
+          "url": "https://ballotpedia.org/Mario_Garcia_(Indiana)",
+          "date_accessed": "2022-05-20",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16267/",
+          "id": 16267,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:19:44.229583-07:00",
+          "date_modified": "2022-05-20T14:19:44.229609-07:00",
+          "url": "https://www.insd.uscourts.gov/content/magistrate-judge-mario-garcia",
+          "date_accessed": "2022-05-20",
+          "notes": ""
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11524/",
+          "id": 11524,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3708/",
+            "id": 3708,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Ball State University",
+            "ein": 356000221
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:17:00.079297-07:00",
+          "date_modified": "2022-05-20T14:17:00.079327-07:00",
+          "degree_level": "ba",
+          "degree_detail": "Criminal Justice and Criminology",
+          "degree_year": null
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/11525/",
+          "id": 11525,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/552/",
+            "id": 552,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Indiana University-Bloomington",
+            "ein": 356001673
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/15340/",
+          "date_created": "2022-05-20T14:17:00.381049-07:00",
+          "date_modified": "2022-05-20T14:17:00.381089-07:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 1999
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/47754/",
+        "https://www.courtlistener.com/api/rest/v4/positions/47755/",
+        "https://www.courtlistener.com/api/rest/v4/positions/47756/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2022-05-20T14:06:23.899552-07:00",
+      "date_modified": "2022-05-20T14:23:11.757859-07:00",
+      "date_completed": "2022-05-20T13:54:09-07:00",
+      "fjc_id": null,
+      "slug": "mario-garcia",
+      "name_first": "Mario",
+      "name_middle": "",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14481/",
+      "id": 14481,
+      "race": [],
+      "sources": [],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [],
+      "political_affiliations": [],
+      "is_alias_of": "https://www.courtlistener.com/api/rest/v4/people/2941/",
+      "date_created": "2022-02-24T14:44:49.072256-08:00",
+      "date_modified": "2022-02-24T14:44:49.072287-08:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "patti-garcia",
+      "name_first": "Patti",
+      "name_middle": "",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+      "id": 14148,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8695/",
+          "id": 8695,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.241086-08:00",
+          "date_modified": "2022-02-24T14:47:34.241109-08:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2022-02-24",
+          "notes": "American Bench, 2021 ed."
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8696/",
+          "id": 8696,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.248400-08:00",
+          "date_modified": "2022-02-24T14:47:34.248422-08:00",
+          "url": "https://ballotpedia.org/Ruben_Garcia_(California)",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8697/",
+          "id": 8697,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.255804-08:00",
+          "date_modified": "2022-02-24T14:47:34.255827-08:00",
+          "url": "https://www.martindale.com/attorney/ruben-garcia-270121/",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8698/",
+          "id": 8698,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.265990-08:00",
+          "date_modified": "2022-02-24T14:47:34.266013-08:00",
+          "url": "https://www.courtlistener.com",
+          "date_accessed": "2022-02-24",
+          "notes": "Data updated by: catmom"
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8036/",
+          "id": 8036,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3892/",
+            "id": 3892,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Columbia University in the City of New York",
+            "ein": 603800000
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.218953-08:00",
+          "date_modified": "2022-02-24T14:47:34.218978-08:00",
+          "degree_level": "ba",
+          "degree_detail": "",
+          "degree_year": 1990
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8037/",
+          "id": 8037,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/473/",
+            "id": 473,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "University of California-Berkeley",
+            "ein": 946002123
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.228002-08:00",
+          "date_modified": "2022-02-24T14:47:34.228024-08:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 1993
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/43829/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5747/",
+          "id": 5747,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14148/",
+          "date_created": "2022-02-24T14:47:34.235571-08:00",
+          "date_modified": "2022-02-24T14:47:34.235594-08:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": null,
+          "date_granularity_start": "",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:11:09.884721-07:00",
+      "date_modified": "2022-03-19T13:46:50.089449-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "ruben-n-garcia",
+      "name_first": "Ruben",
+      "name_middle": "N.",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+      "id": 14108,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8683/",
+          "id": 8683,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.086382-08:00",
+          "date_modified": "2022-02-24T14:31:39.086406-08:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2022-02-24",
+          "notes": "American Bench, 2021 ed."
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8684/",
+          "id": 8684,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.092993-08:00",
+          "date_modified": "2022-02-24T14:31:39.093016-08:00",
+          "url": "https://ballotpedia.org/Lupe_Garcia",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8685/",
+          "id": 8685,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.097194-08:00",
+          "date_modified": "2022-02-24T14:31:39.097217-08:00",
+          "url": "https://www.martindale.com/attorney/lupe-cecilia-garcia-225597/",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8686/",
+          "id": 8686,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.103489-08:00",
+          "date_modified": "2022-02-24T14:31:39.103512-08:00",
+          "url": "https://trellis.law/judge/lupe.c.garcia",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8687/",
+          "id": 8687,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.115414-08:00",
+          "date_modified": "2022-02-24T14:31:39.115440-08:00",
+          "url": "https://www.courtlistener.com",
+          "date_accessed": "2022-02-24",
+          "notes": "Data updated by: catmom"
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8030/",
+          "id": 8030,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3106/",
+            "id": 3106,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Occidental College",
+            "ein": 951667177
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.062350-08:00",
+          "date_modified": "2022-02-24T14:31:39.062378-08:00",
+          "degree_level": "ba",
+          "degree_detail": "Public Administration",
+          "degree_year": 1990
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8031/",
+          "id": 8031,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5226/",
+            "id": 5226,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "University of San Francisco",
+            "ein": 941156628
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.072334-08:00",
+          "date_modified": "2022-02-24T14:31:39.072359-08:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 2995
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/43788/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5744/",
+          "id": 5744,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/14108/",
+          "date_created": "2022-02-24T14:31:39.078490-08:00",
+          "date_modified": "2022-02-24T14:31:39.078514-08:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": null,
+          "date_granularity_start": "",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:11:08.425172-07:00",
+      "date_modified": "2022-03-19T13:44:56.920372-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "lupe-c-garcia",
+      "name_first": "Lupe",
+      "name_middle": "C.",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "f",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/13505/",
+      "id": 13505,
+      "race": [],
+      "sources": [],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/43035/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:10:41.645232-07:00",
+      "date_modified": "2021-10-29T17:10:41.645257-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "marc-a-garcia",
+      "name_first": "Marc",
+      "name_middle": " A.",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+      "id": 12881,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8691/",
+          "id": 8691,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.959853-08:00",
+          "date_modified": "2022-02-24T14:43:44.959875-08:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2022-02-24",
+          "notes": "American Bench, 2021 ed."
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8692/",
+          "id": 8692,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.964486-08:00",
+          "date_modified": "2022-02-24T14:43:44.964510-08:00",
+          "url": "https://www.martindale.com/attorney/patricia-diane-garcia-216591/",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8693/",
+          "id": 8693,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.968507-08:00",
+          "date_modified": "2022-02-24T14:43:44.968529-08:00",
+          "url": "https://ballotpedia.org/Patricia_Garcia",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8694/",
+          "id": 8694,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.977045-08:00",
+          "date_modified": "2022-02-24T14:43:44.977069-08:00",
+          "url": "https://www.courtlistener.com",
+          "date_accessed": "2022-02-24",
+          "notes": "Data updated by: catmom"
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8034/",
+          "id": 8034,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/2832/",
+            "id": 2832,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "University of California-San Diego",
+            "ein": 956006144
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.927628-08:00",
+          "date_modified": "2022-02-24T14:43:44.927651-08:00",
+          "degree_level": "ba",
+          "degree_detail": "",
+          "degree_year": 1982
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8035/",
+          "id": 8035,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5191/",
+            "id": 5191,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "University of San Diego",
+            "ein": 952544535
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.936933-08:00",
+          "date_modified": "2022-02-24T14:43:44.936956-08:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 1989
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/42119/",
+        "https://www.courtlistener.com/api/rest/v4/positions/44390/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5746/",
+          "id": 5746,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/12881/",
+          "date_created": "2022-02-24T14:43:44.942787-08:00",
+          "date_modified": "2022-02-24T14:43:44.942809-08:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": null,
+          "date_granularity_start": "",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:10:10.891956-07:00",
+      "date_modified": "2022-03-19T13:46:17.940524-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "patricia-diane-garcia",
+      "name_first": "Patricia",
+      "name_middle": "Diane",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1961-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "f",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/12847/",
+      "id": 12847,
+      "race": [],
+      "sources": [],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/42062/",
+        "https://www.courtlistener.com/api/rest/v4/positions/42063/",
+        "https://www.courtlistener.com/api/rest/v4/positions/42064/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:10:09.228405-07:00",
+      "date_modified": "2021-10-29T17:10:09.228434-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "arthur-a-garcia",
+      "name_first": "Arthur",
+      "name_middle": " A.",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+      "id": 11703,
+      "race": [
+        "h"
+      ],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8688/",
+          "id": 8688,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+          "date_created": "2022-02-24T14:37:12.372839-08:00",
+          "date_modified": "2022-02-24T14:37:12.372873-08:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8689/",
+          "id": 8689,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+          "date_created": "2022-02-24T14:37:12.380381-08:00",
+          "date_modified": "2022-02-24T14:37:12.380415-08:00",
+          "url": "https://ballotpedia.org/Michael_Garcia_(California)",
+          "date_accessed": "2022-02-24",
+          "notes": ""
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/8690/",
+          "id": 8690,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+          "date_created": "2022-02-24T14:37:12.389011-08:00",
+          "date_modified": "2022-02-24T14:37:12.389037-08:00",
+          "url": "https://www.courtlistener.com",
+          "date_accessed": "2022-02-24",
+          "notes": "Data updated by: catmom"
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8032/",
+          "id": 8032,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3106/",
+            "id": 3106,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Occidental College",
+            "ein": 951667177
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+          "date_created": "2022-02-24T14:37:12.293868-08:00",
+          "date_modified": "2022-02-24T14:37:12.293917-08:00",
+          "degree_level": "ba",
+          "degree_detail": "",
+          "degree_year": null
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/8033/",
+          "id": 8033,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3104/",
+            "id": 3104,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Loyola Marymount University",
+            "ein": 951643334
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+          "date_created": "2022-02-24T14:37:12.303970-08:00",
+          "date_modified": "2022-02-24T14:37:12.304019-08:00",
+          "degree_level": "jd",
+          "degree_detail": "",
+          "degree_year": 1989
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/42973/",
+        "https://www.courtlistener.com/api/rest/v4/positions/44389/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/5745/",
+          "id": 5745,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/11703/",
+          "date_created": "2022-02-24T14:37:12.311628-08:00",
+          "date_modified": "2022-02-24T14:37:12.311656-08:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": null,
+          "date_granularity_start": "",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:08:54.670238-07:00",
+      "date_modified": "2022-03-19T13:45:28.847763-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "michael-garcia",
+      "name_first": "Michael",
+      "name_middle": "",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1957-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "f",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/11668/",
+      "id": 11668,
+      "race": [],
+      "sources": [],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/39295/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2021-10-29T17:08:52.364182-07:00",
+      "date_modified": "2021-10-29T17:08:52.364205-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "albert-jesse-garcia",
+      "name_first": "Albert",
+      "name_middle": " Jesse",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/10634/",
+      "id": 10634,
+      "race": [],
+      "sources": [],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/37064/",
+        "https://www.courtlistener.com/api/rest/v4/positions/37065/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2021-10-19T17:50:30.458171-07:00",
+      "date_modified": "2021-10-19T17:50:30.458199-07:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "david-a-garcia",
+      "name_first": "David",
+      "name_middle": " A.",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/10116/",
+      "id": 10116,
+      "race": [],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5905/",
+          "id": 5905,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/10116/",
+          "date_created": "2020-08-11T13:14:26.229000-07:00",
+          "date_modified": "2020-08-11T13:14:26.229000-07:00",
+          "url": "",
+          "date_accessed": null,
+          "notes": ""
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/36212/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2020-08-11T13:14:26.171000-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "lorenzo-f-garcia",
+      "name_first": "Lorenzo",
+      "name_middle": "F",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9996/",
+      "id": 9996,
+      "race": [],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5785/",
+          "id": 5785,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/9996/",
+          "date_created": "2020-08-11T13:14:16.487000-07:00",
+          "date_modified": "2020-08-11T13:14:16.487000-07:00",
+          "url": "",
+          "date_accessed": null,
+          "notes": ""
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/36092/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2020-08-11T13:14:16.404000-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "guillermo-r-garcia",
+      "name_first": "Guillermo",
+      "name_middle": "R",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/9599/",
+      "id": 9599,
+      "race": [],
+      "sources": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/5311/",
+          "id": 5311,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/9599/",
+          "date_created": "2020-05-13T16:56:32.079550-07:00",
+          "date_modified": "2020-05-13T16:56:32.079573-07:00",
+          "url": "https://www.forster-long.com/americanbench",
+          "date_accessed": "2020-05-13",
+          "notes": ""
+        }
+      ],
+      "aba_ratings": [],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/35597/"
+      ],
+      "political_affiliations": [],
+      "is_alias_of": null,
+      "date_created": "2020-05-13T16:56:32.070372-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": null,
+      "slug": "victor-roberto-garcia",
+      "name_first": "Victor",
+      "name_middle": "Roberto",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": null,
+      "date_granularity_dob": "",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": null,
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1149/",
+      "id": 1149,
+      "race": [
+        "h"
+      ],
+      "sources": [],
+      "aba_ratings": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/688/",
+          "id": 688,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1149/",
+          "date_created": "2016-04-20T08:18:23.969577-07:00",
+          "date_modified": "2016-04-20T08:18:23.969603-07:00",
+          "year_rated": 1993,
+          "rating": "q"
+        }
+      ],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/945/",
+          "id": 945,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/",
+            "id": 321,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "The University of Texas at Austin",
+            "ein": 746000203
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1149/",
+          "date_created": "2016-04-20T08:18:23.989403-07:00",
+          "date_modified": "2016-04-20T08:18:23.989429-07:00",
+          "degree_level": "ba",
+          "degree_detail": "B.A.",
+          "degree_year": 1975
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/6965/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6966/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6967/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6964/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1154/",
+          "id": 1154,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1149/",
+          "date_created": "2016-04-20T08:18:23.962095-07:00",
+          "date_modified": "2016-04-20T08:18:23.962124-07:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": "1993-11-19",
+          "date_granularity_start": "%Y-%m-%d",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2016-04-20T08:18:23.925550-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": 818,
+      "slug": "orlando-luis-garcia",
+      "name_first": "Orlando",
+      "name_middle": "Luis",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1952-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "Jim Wells County",
+      "dob_state": "TX",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": "",
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1148/",
+      "id": 1148,
+      "race": [
+        "h"
+      ],
+      "sources": [],
+      "aba_ratings": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/687/",
+          "id": 687,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1148/",
+          "date_created": "2016-04-20T08:18:23.820467-07:00",
+          "date_modified": "2016-04-20T08:18:23.820488-07:00",
+          "year_rated": 1979,
+          "rating": "q"
+        }
+      ],
+      "educations": [],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/6958/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6959/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6960/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6961/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6962/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6963/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6957/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1153/",
+          "id": 1153,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1148/",
+          "date_created": "2016-04-20T08:18:23.813655-07:00",
+          "date_modified": "2016-04-20T08:18:23.813679-07:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": "1979-12-19",
+          "date_granularity_start": "%Y-%m-%d",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2016-04-20T08:18:23.781765-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": 817,
+      "slug": "hipolito-frank-garcia",
+      "name_first": "Hipolito",
+      "name_middle": "Frank",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1925-12-04",
+      "date_granularity_dob": "%Y-%m-%d",
+      "date_dod": "2002-01-16",
+      "date_granularity_dod": "%Y-%m-%d",
+      "dob_city": "San Antonio",
+      "dob_state": "TX",
+      "dob_country": "United States",
+      "dod_city": "Austin",
+      "dod_state": "TX",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": "",
+      "has_photo": false
+    },
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1147/",
+      "id": 1147,
+      "race": [
+        "h"
+      ],
+      "sources": [],
+      "aba_ratings": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/686/",
+          "id": 686,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1147/",
+          "date_created": "2016-04-20T08:18:23.694367-07:00",
+          "date_modified": "2016-04-20T08:18:23.694389-07:00",
+          "year_rated": 1984,
+          "rating": "q"
+        }
+      ],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/944/",
+          "id": 944,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/4941/",
+            "id": 4941,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Sacramento City College",
+            "ein": 941576340
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1147/",
+          "date_created": "2016-04-20T08:18:23.707815-07:00",
+          "date_modified": "2016-04-20T08:18:23.707839-07:00",
+          "degree_level": "aa",
+          "degree_detail": "A.A.",
+          "degree_year": 1951
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/6952/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6953/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6954/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6955/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6956/",
+        "https://www.courtlistener.com/api/rest/v4/positions/6951/",
+        "https://www.courtlistener.com/api/rest/v4/positions/37066/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1152/",
+          "id": 1152,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1147/",
+          "date_created": "2016-04-20T08:18:23.687770-07:00",
+          "date_modified": "2016-04-20T08:18:23.687795-07:00",
+          "political_party": "r",
+          "source": "a",
+          "date_start": "1984-02-16",
+          "date_granularity_start": "%Y-%m-%d",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2016-04-20T08:18:23.656543-07:00",
+      "date_modified": "2020-11-25T08:30:17.871511-08:00",
+      "date_completed": null,
+      "fjc_id": 816,
+      "slug": "edward-j-garcia",
+      "name_first": "Edward",
+      "name_middle": "J.",
+      "name_last": "Garcia",
+      "name_suffix": "",
+      "date_dob": "1928-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "",
+      "dob_state": "",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "m",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": "",
+      "has_photo": true
+    }
+  ]
+}

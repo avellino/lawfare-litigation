@@ -1,0 +1,6 @@
+{
+  "count": "https://www.courtlistener.com/api/rest/v4/people/?count=on&name_first=John&name_last=Docherty",
+  "next": null,
+  "previous": null,
+  "results": []
+}

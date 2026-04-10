@@ -1,0 +1,115 @@
+{
+  "count": "https://www.courtlistener.com/api/rest/v4/people/?count=on&name_first=Diana&name_last=Saldana",
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/2827/",
+      "id": 2827,
+      "race": [
+        "h"
+      ],
+      "sources": [],
+      "aba_ratings": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/1772/",
+          "id": 1772,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/2827/",
+          "date_created": "2016-04-20T08:22:22.036418-07:00",
+          "date_modified": "2016-04-20T08:22:22.036443-07:00",
+          "year_rated": 2011,
+          "rating": "wq"
+        }
+      ],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2364/",
+          "id": 2364,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/",
+            "id": 321,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "The University of Texas at Austin",
+            "ein": 746000203
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/2827/",
+          "date_created": "2016-04-20T08:22:22.052896-07:00",
+          "date_modified": "2016-04-20T08:22:22.052929-07:00",
+          "degree_level": "ba",
+          "degree_detail": "B.A.",
+          "degree_year": 1993
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/2365/",
+          "id": 2365,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/321/",
+            "id": 321,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "The University of Texas at Austin",
+            "ein": 746000203
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/2827/",
+          "date_created": "2016-04-20T08:22:22.069203-07:00",
+          "date_modified": "2016-04-20T08:22:22.069234-07:00",
+          "degree_level": "ba",
+          "degree_detail": "B.A.",
+          "degree_year": 1994
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/17732/",
+        "https://www.courtlistener.com/api/rest/v4/positions/17733/",
+        "https://www.courtlistener.com/api/rest/v4/positions/17734/",
+        "https://www.courtlistener.com/api/rest/v4/positions/17735/",
+        "https://www.courtlistener.com/api/rest/v4/positions/17736/",
+        "https://www.courtlistener.com/api/rest/v4/positions/17737/",
+        "https://www.courtlistener.com/api/rest/v4/positions/17731/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/2835/",
+          "id": 2835,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/2827/",
+          "date_created": "2016-04-20T08:22:22.031219-07:00",
+          "date_modified": "2016-04-20T08:22:22.031248-07:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": "2011-01-05",
+          "date_granularity_start": "%Y-%m-%d",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2016-04-20T08:22:21.999572-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": 3354,
+      "slug": "diana-saldana",
+      "name_first": "Diana",
+      "name_middle": "",
+      "name_last": "Saldana",
+      "name_suffix": "",
+      "date_dob": "1971-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "Carrizo Springs",
+      "dob_state": "TX",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "f",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": "",
+      "has_photo": false
+    }
+  ]
+}

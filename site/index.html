@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trump Administration Legal Tracker</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <h1>Trump Administration Legal Tracker</h1>
+            <p class="subtitle">
+                Structural litigation data enriched via
+                <a href="https://www.courtlistener.com/" target="_blank">CourtListener</a>,
+                cross-referenced with Lawfare's habeas non-compliance dataset.
+            </p>
+        </div>
+    </header>
+
+    <!-- Section switcher -->
+    <div class="section-switcher">
+        <button class="section-btn active" data-section="litigation">
+            <span class="section-icon">⚖️</span>
+            <span class="section-label">Litigation Tracker</span>
+            <span class="section-count" id="lit-count"></span>
+        </button>
+        <button class="section-btn" data-section="noncompliance">
+            <span class="section-icon">🚨</span>
+            <span class="section-label">Non-Compliance</span>
+            <span class="section-count" id="nc-count"></span>
+        </button>
+    </div>
+
+    <!-- ╔══════════════════════════════════════════╗ -->
+    <!-- ║       LITIGATION TRACKER SECTION         ║ -->
+    <!-- ╚══════════════════════════════════════════╝ -->
+    <div id="section-litigation" class="section active">
+        <nav class="tab-nav">
+            <button class="tab active" data-tab="lit-overview">Overview</button>
+            <button class="tab" data-tab="lit-judges">Judges</button>
+            <button class="tab" data-tab="lit-attorneys">Attorneys</button>
+            <button class="tab" data-tab="lit-actions">Executive Actions</button>
+            <button class="tab" data-tab="lit-explorer">Case Explorer</button>
+        </nav>
+
+        <section id="tab-lit-overview" class="tab-content active">
+            <div class="stat-cards" id="lit-stat-cards"></div>
+            <div class="card"><h2>Dockets by Executive Action (top 20)</h2><div id="lit-chart-ea"></div></div>
+            <div class="card"><h2>Dockets by Court (top 20)</h2><div id="lit-chart-courts"></div></div>
+            <div class="card">
+                <h2>Filing Timeline</h2>
+                <div class="toggle-row">
+                    <button class="toggle-btn active" data-mode="monthly">Monthly</button>
+                    <button class="toggle-btn" data-mode="cumulative">Cumulative</button>
+                </div>
+                <div id="lit-chart-timeline"></div>
+            </div>
+        </section>
+
+        <section id="tab-lit-judges" class="tab-content">
+            <div class="card">
+                <h2>Cases by Appointing President</h2>
+                <p class="card-desc">Distribution of structural litigation dockets across judges, grouped by which president appointed them.</p>
+                <div id="lit-chart-appointers"></div>
+            </div>
+            <div class="card">
+                <h2>Top Judges by Docket Count</h2>
+                <p class="card-desc">Colored by appointing president. Judges who also appear in the non-compliance dataset are marked with a white border.</p>
+                <div id="lit-chart-judges"></div>
+            </div>
+            <div class="card">
+                <h2>Injunction vs Dismissal Rate</h2>
+                <p class="card-desc">Each bubble is a judge with 2+ dockets. Size = number of dockets. Hover for details.</p>
+                <div id="lit-chart-scatter"></div>
+            </div>
+        </section>
+
+        <section id="tab-lit-attorneys" class="tab-content">
+            <div class="card">
+                <h2>Top Organizations / Firms</h2>
+                <div id="lit-chart-orgs"></div>
+            </div>
+            <div class="two-col">
+                <div class="card">
+                    <h2>Top Plaintiff-Side Attorneys</h2>
+                    <div id="lit-chart-plaintiff-attys"></div>
+                </div>
+                <div class="card">
+                    <h2>Top Defendant-Side Attorneys (DOJ)</h2>
+                    <div id="lit-chart-defendant-attys"></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="tab-lit-actions" class="tab-content">
+            <div class="card">
+                <h2>Status Breakdown by Executive Action (top 15)</h2>
+                <p class="card-desc">How cases challenging each executive action have fared in court.</p>
+                <div id="lit-chart-ea-status"></div>
+            </div>
+        </section>
+
+        <section id="tab-lit-explorer" class="tab-content">
+            <div class="card">
+                <div class="explorer-controls">
+                    <input type="text" id="lit-search" placeholder="Search cases, judges, executive actions...">
+                    <select id="lit-filter-status"><option value="">All Statuses</option></select>
+                    <select id="lit-filter-court"><option value="">All Courts</option></select>
+                </div>
+                <div class="toggle-row" style="margin-bottom:0.75rem">
+                    <button class="toggle-btn active" data-mode="all" id="lit-view-all">All Dockets</button>
+                    <button class="toggle-btn" data-mode="battles" id="lit-view-battles">Battles Only</button>
+                </div>
+                <div class="explorer-count">Showing <span id="lit-explorer-showing">0</span> of <span id="lit-explorer-total">0</span></div>
+                <div id="lit-case-list"></div>
+            </div>
+        </section>
+    </div>
+
+    <!-- ╔══════════════════════════════════════════╗ -->
+    <!-- ║       NON-COMPLIANCE SECTION             ║ -->
+    <!-- ╚══════════════════════════════════════════╝ -->
+    <div id="section-noncompliance" class="section">
+        <nav class="tab-nav">
+            <button class="tab active" data-tab="nc-overview">Overview</button>
+            <button class="tab" data-tab="nc-judges">Judge Overlap</button>
+            <button class="tab" data-tab="nc-violations">Violation Patterns</button>
+            <button class="tab" data-tab="nc-timeline">Timeline</button>
+            <button class="tab" data-tab="nc-explorer">Case Explorer</button>
+        </nav>
+
+        <section id="tab-nc-overview" class="tab-content active">
+            <div class="stat-cards" id="nc-stat-cards"></div>
+            <div class="card"><h2>Violations by Type</h2><p class="card-desc">Ordered by severity.</p><div id="nc-chart-violations"></div></div>
+            <div class="card"><h2>Cases by Jurisdiction</h2><div id="nc-chart-jurisdictions"></div></div>
+            <div class="card"><h2>Appointing President</h2><p class="card-desc">Non-compliance is documented by judges across party lines.</p><div id="nc-chart-appointers"></div></div>
+        </section>
+
+        <section id="tab-nc-judges" class="tab-content">
+            <div class="card">
+                <h2>Judges in Both Datasets</h2>
+                <p class="card-desc"><strong id="nc-overlap-count"></strong> judges appear in both the non-compliance dataset and the structural litigation tracker. Click a judge for details.</p>
+                <div id="nc-chart-overlap"></div>
+            </div>
+            <div id="nc-judge-detail" class="card" style="display:none">
+                <h2 id="nc-judge-detail-name"></h2>
+                <div id="nc-judge-detail-content"></div>
+            </div>
+            <div class="card">
+                <h2>All Judges by Non-Compliance Caseload</h2>
+                <p class="card-desc">Colored by appointing president. White border = also in litigation tracker.</p>
+                <div id="nc-chart-all-judges"></div>
+            </div>
+        </section>
+
+        <section id="tab-nc-violations" class="tab-content">
+            <div class="card">
+                <h2>Violation Co-occurrence</h2>
+                <p class="card-desc"><strong id="nc-multi-count"></strong> cases involve multiple violation types.</p>
+                <div id="nc-chart-cooccurrence"></div>
+            </div>
+            <div class="card">
+                <h2>Violations by Jurisdiction</h2>
+                <div id="nc-chart-viol-by-juris"></div>
+            </div>
+        </section>
+
+        <section id="tab-nc-timeline" class="tab-content">
+            <div class="card">
+                <h2>Non-Compliance Over Time</h2>
+                <div id="nc-chart-timeline"></div>
+            </div>
+        </section>
+
+        <section id="tab-nc-explorer" class="tab-content">
+            <div class="card">
+                <div class="explorer-controls">
+                    <input type="text" id="nc-search" placeholder="Search cases, judges, courts...">
+                    <select id="nc-filter-jurisdiction"><option value="">All Jurisdictions</option></select>
+                    <select id="nc-filter-violation"><option value="">All Violation Types</option></select>
+                    <select id="nc-filter-appointer"><option value="">All Appointing Presidents</option></select>
+                </div>
+                <div class="explorer-count">Showing <span id="nc-explorer-showing">0</span> of <span id="nc-explorer-total">0</span></div>
+                <div id="nc-case-list"></div>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>
+            Data: <a href="https://www.lawfaremedia.org/" target="_blank">Lawfare Institute</a> &middot;
+            <a href="https://www.courtlistener.com/" target="_blank">CourtListener RECAP Archive</a> &middot;
+            <a href="https://www.fjc.gov/" target="_blank">Federal Judicial Center</a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

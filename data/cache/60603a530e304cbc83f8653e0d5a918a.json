@@ -1,0 +1,132 @@
+{
+  "count": "https://www.courtlistener.com/api/rest/v4/people/?count=on&name_first=Katharine&name_last=Hayden",
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/1402/",
+      "id": 1402,
+      "race": [
+        "w"
+      ],
+      "sources": [],
+      "aba_ratings": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/aba-ratings/861/",
+          "id": 861,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1402/",
+          "date_created": "2016-04-20T08:19:00.079555-07:00",
+          "date_modified": "2016-04-20T08:19:00.079577-07:00",
+          "year_rated": 1997,
+          "rating": "wq"
+        }
+      ],
+      "educations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1170/",
+          "id": 1170,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/3930/",
+            "id": 3930,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Marymount Manhattan College",
+            "ein": 131628206
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1402/",
+          "date_created": "2016-04-20T08:19:00.093766-07:00",
+          "date_modified": "2016-04-20T08:19:00.093790-07:00",
+          "degree_level": "ba",
+          "degree_detail": "B.A.",
+          "degree_year": 1963
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1171/",
+          "id": 1171,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5531/",
+            "id": 5531,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Seton Hall University",
+            "ein": 221500645
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1402/",
+          "date_created": "2016-04-20T08:19:00.107261-07:00",
+          "date_modified": "2016-04-20T08:19:00.107284-07:00",
+          "degree_level": "ma",
+          "degree_detail": "M.A.",
+          "degree_year": 1971
+        },
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/educations/1172/",
+          "id": 1172,
+          "school": {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/schools/5531/",
+            "id": 5531,
+            "is_alias_of": null,
+            "date_created": "2010-06-07T17:00:00-07:00",
+            "date_modified": "2010-06-07T17:00:00-07:00",
+            "name": "Seton Hall University",
+            "ein": 221500645
+          },
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1402/",
+          "date_created": "2016-04-20T08:19:00.135642-07:00",
+          "date_modified": "2016-04-20T08:19:00.135677-07:00",
+          "degree_level": "jd",
+          "degree_detail": "J.D.",
+          "degree_year": 1975
+        }
+      ],
+      "positions": [
+        "https://www.courtlistener.com/api/rest/v4/positions/8537/",
+        "https://www.courtlistener.com/api/rest/v4/positions/8538/",
+        "https://www.courtlistener.com/api/rest/v4/positions/8539/",
+        "https://www.courtlistener.com/api/rest/v4/positions/8540/",
+        "https://www.courtlistener.com/api/rest/v4/positions/8541/"
+      ],
+      "political_affiliations": [
+        {
+          "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/1409/",
+          "id": 1409,
+          "person": "https://www.courtlistener.com/api/rest/v4/people/1402/",
+          "date_created": "2016-04-20T08:19:00.072658-07:00",
+          "date_modified": "2016-04-20T08:19:00.072682-07:00",
+          "political_party": "d",
+          "source": "a",
+          "date_start": "1997-06-05",
+          "date_granularity_start": "%Y-%m-%d",
+          "date_end": null,
+          "date_granularity_end": ""
+        }
+      ],
+      "is_alias_of": null,
+      "date_created": "2016-04-20T08:19:00.042561-07:00",
+      "date_modified": "2020-11-25T08:30:09.267808-08:00",
+      "date_completed": null,
+      "fjc_id": 2732,
+      "slug": "katharine-sweeney-hayden",
+      "name_first": "Katharine",
+      "name_middle": "Sweeney",
+      "name_last": "Hayden",
+      "name_suffix": "",
+      "date_dob": "1942-01-01",
+      "date_granularity_dob": "%Y",
+      "date_dod": null,
+      "date_granularity_dod": "",
+      "dob_city": "New York",
+      "dob_state": "NY",
+      "dob_country": "United States",
+      "dod_city": "",
+      "dod_state": "",
+      "dod_country": "United States",
+      "gender": "f",
+      "religion": "",
+      "ftm_total_received": null,
+      "ftm_eid": "",
+      "has_photo": false
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "count": "https://www.courtlistener.com/api/rest/v4/positions/?count=on&person=15226",
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "resource_uri": "https://www.courtlistener.com/api/rest/v4/positions/44769/",
+      "id": 44769,
+      "retention_events": [],
+      "person": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15226/",
+        "id": 15226,
+        "race": [
+          "w"
+        ],
+        "sources": [
+          {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16091/",
+            "id": 16091,
+            "person": "https://www.courtlistener.com/api/rest/v4/people/15226/",
+            "date_created": "2022-04-21T15:12:12.764834-07:00",
+            "date_modified": "2022-04-21T15:12:12.764854-07:00",
+            "url": "https://en.wikipedia.org/wiki/William_A._Johnson,_Jr.",
+            "date_accessed": "2022-04-21",
+            "notes": ""
+          }
+        ],
+        "aba_ratings": [],
+        "educations": [],
+        "positions": [
+          "https://www.courtlistener.com/api/rest/v4/positions/44769/"
+        ],
+        "political_affiliations": [
+          {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7889/",
+            "id": 7889,
+            "person": "https://www.courtlistener.com/api/rest/v4/people/15226/",
+            "date_created": "2022-04-21T15:12:12.763046-07:00",
+            "date_modified": "2022-04-21T15:12:12.763067-07:00",
+            "political_party": "d",
+            "source": "o",
+            "date_start": null,
+            "date_granularity_start": "",
+            "date_end": null,
+            "date_granularity_end": ""
+          }
+        ],
+        "is_alias_of": null,
+        "date_created": "2022-04-21T15:12:10.754897-07:00",
+        "date_modified": "2022-04-21T15:12:10.754923-07:00",
+        "date_completed": "2022-04-21T15:10:37-07:00",
+        "fjc_id": null,
+        "slug": "william-a-johnson-jr",
+        "name_first": "William",
+        "name_middle": "A.",
+        "name_last": "Johnson",
+        "name_suffix": "jr",
+        "date_dob": null,
+        "date_granularity_dob": "",
+        "date_dod": null,
+        "date_granularity_dod": "",
+        "dob_city": "",
+        "dob_state": "",
+        "dob_country": "United States",
+        "dod_city": "",
+        "dod_state": "",
+        "dod_country": "United States",
+        "gender": "m",
+        "religion": "",
+        "ftm_total_received": null,
+        "ftm_eid": null,
+        "has_photo": false
+      },
+      "supervisor": null,
+      "predecessor": {
+        "resource_uri": "https://www.courtlistener.com/api/rest/v4/people/15225/",
+        "id": 15225,
+        "race": [
+          "w"
+        ],
+        "sources": [
+          {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/sources/16090/",
+            "id": 16090,
+            "person": "https://www.courtlistener.com/api/rest/v4/people/15225/",
+            "date_created": "2022-04-21T15:09:13.827567-07:00",
+            "date_modified": "2022-04-21T15:09:13.827588-07:00",
+            "url": "https://en.wikipedia.org/wiki/Thomas_P._Ryan,_Jr.",
+            "date_accessed": "2022-04-21",
+            "notes": ""
+          }
+        ],
+        "aba_ratings": [],
+        "educations": [],
+        "positions": [
+          "https://www.courtlistener.com/api/rest/v4/positions/44768/"
+        ],
+        "political_affiliations": [
+          {
+            "resource_uri": "https://www.courtlistener.com/api/rest/v4/political-affiliations/7888/",
+            "id": 7888,
+            "person": "https://www.courtlistener.com/api/rest/v4/people/15225/",
+            "date_created": "2022-04-21T15:09:13.825544-07:00",
+            "date_modified": "2022-04-21T15:09:13.825565-07:00",
+            "political_party": "d",
+            "source": "o",
+            "date_start": null,
+            "date_granularity_start": "",
+            "date_end": null,
+            "date_granularity_end": ""
+          }
+        ],
+        "is_alias_of": null,
+        "date_created": "2022-04-21T15:09:13.798455-07:00",
+        "date_modified": "2022-04-21T15:09:13.798493-07:00",
+        "date_completed": "2022-04-21T14:53:06-07:00",
+        "fjc_id": null,
+        "slug": "thomas-p-ryan-jr",
+        "name_first": "Thomas",
+        "name_middle": "P.",
+        "name_last": "Ryan",
+        "name_suffix": "jr",
+        "date_dob": null,
+        "date_granularity_dob": "",
+        "date_dod": null,
+        "date_granularity_dod": "",
+        "dob_city": "",
+        "dob_state": "",
+        "dob_country": "United States",
+        "dod_city": "",
+        "dod_state": "",
+        "dod_country": "United States",
+        "gender": "m",
+        "religion": "",
+        "ftm_total_received": null,
+        "ftm_eid": null,
+        "has_photo": false
+      },
+      "school": null,
+      "court": null,
+      "appointer": null,
+      "date_created": "2022-04-21T15:12:12.757740-07:00",
+      "date_modified": "2022-04-21T15:12:12.757768-07:00",
+      "position_type": "mayor",
+      "job_title": "",
+      "sector": null,
+      "organization_name": "City of Rochester",
+      "location_city": "Rochester",
+      "location_state": "NY",
+      "date_nominated": null,
+      "date_elected": null,
+      "date_recess_appointment": null,
+      "date_referred_to_judicial_committee": null,
+      "date_judicial_committee_action": null,
+      "judicial_committee_action": "",
+      "date_hearing": null,
+      "date_confirmation": null,
+      "date_start": "1994-01-01",
+      "date_granularity_start": "%Y-%m-%d",
+      "date_termination": "2005-12-31",
+      "termination_reason": "",
+      "date_granularity_termination": "%Y-%m-%d",
+      "date_retirement": null,
+      "nomination_process": "",
+      "vote_type": "",
+      "voice_vote": null,
+      "votes_yes": null,
+      "votes_no": null,
+      "votes_yes_percent": null,
+      "votes_no_percent": null,
+      "how_selected": "",
+      "has_inferred_values": false
+    }
+  ]
+}
