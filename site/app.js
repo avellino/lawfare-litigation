@@ -62,7 +62,7 @@ function hBar(selector, data, opts={}) {
     svg.selectAll("rect").data(data).join("rect")
         .attr("x",margin.left).attr("y",d=>y(d.name))
         .attr("width",d=>Math.max(0,x(d.count)-margin.left)).attr("height",y.bandwidth())
-        .attr("fill",d=>opts.colorFn?opts.colorFn(d):"#3b82f6").attr("rx",3)
+        .attr("fill",d=>opts.colorFn?opts.colorFn(d):(opts.color||"#3b82f6")).attr("rx",3)
         .attr("stroke",d=>opts.strokeFn?opts.strokeFn(d):"none").attr("stroke-width",d=>opts.strokeFn&&opts.strokeFn(d)!=="none"?1.5:0);
     svg.selectAll(".bl").data(data).join("text").attr("class","bar-label")
         .attr("x",margin.left-6).attr("y",d=>y(d.name)+y.bandwidth()/2)
@@ -164,11 +164,11 @@ function renderLitOverview() {
 
     // EA bar chart
     const eaData = DATA.litigation.executive_actions.slice(0,20).map(e=>({name:e.executive_action, count:e.docket_count}));
-    hBar("#lit-chart-ea", eaData);
+    hBar("#lit-chart-ea", eaData, {color:"#818cf8"});
 
     // Court bar chart
     const courtData = DATA.litigation.court_counts.slice(0,20).map(c=>({name:courtName(c.court), count:c.count}));
-    hBar("#lit-chart-courts", courtData);
+    hBar("#lit-chart-courts", courtData, {color:"#2dd4bf"});
 
     // Timeline
     renderLitTimeline("monthly");
@@ -193,7 +193,7 @@ function renderLitTimeline(mode) {
         const m = w.week.split("/")[0].slice(0,7);
         monthly[m] = (monthly[m]||0) + w.count;
     });
-    let data = Object.entries(monthly).sort().map(([m,c])=>({month:m, count:c}));
+    let data = Object.entries(monthly).sort().map(([m,c])=>({month:m, count:c})).filter(d=>d.count>0 && d.month>="2024-12");
 
     const width = container.node().clientWidth || 700;
     const margin = {top:20, right:30, bottom:55, left:50};
@@ -216,14 +216,14 @@ function renderLitTimeline(mode) {
         svg.selectAll("rect").data(pts).join("rect")
             .attr("x",d=>x(d.date)-bw/2).attr("y",d=>y(d.count))
             .attr("width",bw).attr("height",d=>height-margin.bottom-y(d.count))
-            .attr("fill","#3b82f6").attr("rx",2);
+            .attr("fill","#f59e0b").attr("rx",2);
     } else {
         svg.append("path").datum(pts)
             .attr("d",d3.area().x(d=>x(d.date)).y0(height-margin.bottom).y1(d=>y(d.count)).curve(d3.curveMonotoneX))
-            .attr("fill","#3b82f620");
+            .attr("fill","#f59e0b20");
         svg.append("path").datum(pts)
             .attr("d",d3.line().x(d=>x(d.date)).y(d=>y(d.count)).curve(d3.curveMonotoneX))
-            .attr("fill","none").attr("stroke","#3b82f6").attr("stroke-width",2);
+            .attr("fill","none").attr("stroke","#f59e0b").attr("stroke-width",2);
     }
 
     svg.append("g").attr("class","axis").attr("transform",`translate(0,${height-margin.bottom})`)
